@@ -39,4 +39,11 @@ You can add extra flavour with berries.
 
 ![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_4.jpg)
 
+You can add extra flavour with berries.
+
+![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_5.jpg)
+You can add extra flavour with berries.
+
+![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_6.jpg)
+
 Or a caramel sauce.
