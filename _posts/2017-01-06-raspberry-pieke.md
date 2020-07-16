@@ -2,7 +2,7 @@
 date: 2017-01-06
 title: Raspberry Pie
 categories:
-  - Tart
+  - Tarts
 featured_image: https://irishbaking.ie/images/Raspberry_Pie/Image_1.jpg
 recipe:
   servings: 12 slices
