@@ -38,6 +38,7 @@ You can add extra flavour with berries.
 You can add extra flavour with berries.
 
 ![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_3.jpg)
+
 You can add extra flavour with berries.
 
 ![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_4.jpg)
