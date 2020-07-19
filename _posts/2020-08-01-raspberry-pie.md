@@ -18,24 +18,35 @@ recipe:
     * 6 cups (about 2 1/4 pounds or 1 kilo) of fresh (or frozen) blueberries, rinsed and stems removed (if using frozen, defrost and drain first)
     * 1 teaspoon lemon zest
     * 1 Tbsp lemon juice
-    * 1/4 cup (about 30g) cornstarch, all-purpose flour, or quick cooking "minute" tapioca* (for thickening)
-    * 1/2 cup white granulated sugar (100g)
+    * 1/4 cup, 30g of cornstarch or all-purpose flour
+    * 1/2 cup, 100f of white granulated sugar
+    * 
+    * 1 egg
+    * 1 tablespoon milk
   directions_markdown: |-
-    1. Heat oven to 325° F. Butter and flour a 12-cup Bundt pan. In a medium bowl, whisk together the flour, salt, baking soda, and baking powder.
-    2. Using an electric mixer, beat the butter, granulated sugar, and lemon zest on medium-high until light and fluffy, 3 to 4 minutes. Beat in 4 tablespoons of the lemon juice, then the eggs, one at a time, scraping down the sides of the bowl as necessary.
-    3. Reduce mixer speed to low. Add half the flour mixture, then the yogurt, and then the remaining flour mixture. Mix just until combined (do not overmix).
-    4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
-    5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
+    1. Cut butter into cubes and let sit for a couple minutes: Cut the butter into cubes and put in a warm spot to take the chill off (don't soften the butter, just let it sit out for a couple minutes when you take it out of the fridge)
+    2. Whisk together flour, salt, sugar: In a large bowl, whisk together the flour, salt, and sugar.
+    3. Work the butter into the flour with your hands: Sprinkled the cubes of butter over the flour. Use your clean hands to squish the flour and butter together with your thumbs, fingers, and knuckles. Work the butter into the dough until you have what resembles a coarse meal with some flattened chunks of butter.
+    4. Add sour cream: Add the sour cream to the flour butter mixture
+    5. Form dough into disks, refrigerate: Use your hands to gather the pastry dough together into a large ball. Use a knife to cut the ball in half. Form into two disks. As you work the dough into disks, it should end up smooth, having the consistency of Play-Doh. Don't worry about over-working this dough. Form the disks so that there are no cracks. Sprinkle all over with a little flour. Wrap tightly with plastic wrap. Once you wrap the dough disk in plastic wrap, you can massage the dough and the edges with your warm hands to close any cracks. Chill in the refrigerator for an hour or up to a day ahead.
+    6. Remove dough from the fridge, let sit for a few minutes, then roll out: After the dough has been sitting in the fridge for an hour, remove it and let it sit for 5-10 minutes at room temperature to become more malleable before rolling out. If it still feels too stiff to roll out, hold your hands around the edges to soften.
+    7. 
+    8. Preheat oven to 220°C.
+    9. 
+    10. Brush top of pie with egg wash: Whisk egg and milk together to make an egg wash. Brush the top crust with egg wash. Score the pie on the top with several cuts (so steam can escape while cooking).
+    10. Bake: Place the pie on the middle rack of the oven with a foil or Silpat lined baking pan positioned on the lower rack to catch any filling that may bubble over. Bake for 20 minutes at 220°C. Reduce heat to 180°C and bake for 30 to 40 minutes more or until juices are bubbling and have thickened.
+
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
+One of my favourite things to do in the summer is to make pie from fresh ingredients. Something warm to eat with a nice cup of tea.
 
 ![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_2.jpg)
 
-You can add extra flavour with berries.
+Try not to eat all of the raspberries before putting them into the pie.
 
 ![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_4.jpg)
 
-You can add extra flavour with berries.
+Once the sugar and cornstarch is added along with the topped pastry you're ready to egg wash the top of your pie.
+BTW those pie holes are very very important. Your sugar and flour won't mix as well with the berries without them.
 
 ![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_5.jpg)
 
@@ -43,4 +54,3 @@ You can add extra flavour with berries.
 
 ![Cake](https://irishbaking.ie/images/Raspberry_Pie/Image_6.jpg)
 
-Or a caramel sauce.
