@@ -30,15 +30,22 @@ recipe:
     * 1 egg
     * 1 tablespoon milk
   directions_markdown: |-
+    **Pastery**
+
     1. Cut butter into cubes and let sit for a couple minutes: Cut the butter into cubes and put in a warm spot to take the chill off (don't soften the butter, just let it sit out for a couple minutes when you take it out of the fridge)
     2. Whisk together flour, salt, sugar: In a large bowl, whisk together the flour, salt, and sugar.
     3. Work the butter into the flour with your hands: Sprinkled the cubes of butter over the flour. Use your clean hands to squish the flour and butter together with your thumbs, fingers, and knuckles. Work the butter into the dough until you have what resembles a coarse meal with some flattened chunks of butter.
     4. Add sour cream: Add the sour cream to the flour butter mixture
     5. Form dough into disks, refrigerate: Use your hands to gather the pastry dough together into a large ball. Use a knife to cut the ball in half. Form into two disks. As you work the dough into disks, it should end up smooth, having the consistency of Play-Doh. Don't worry about over-working this dough. Form the disks so that there are no cracks. Sprinkle all over with a little flour. Wrap tightly with plastic wrap. Once you wrap the dough disk in plastic wrap, you can massage the dough and the edges with your warm hands to close any cracks. Chill in the refrigerator for an hour or up to a day ahead.
     6. Remove dough from the fridge, let sit for a few minutes, then roll out: After the dough has been sitting in the fridge for an hour, remove it and let it sit for 5-10 minutes at room temperature to become more malleable before rolling out. If it still feels too stiff to roll out, hold your hands around the edges to soften.
-    7. 
-    8. Preheat oven to 220°C.
-    9. 
+
+    **Filling**
+
+    1. Preheat oven to 220°C.
+    2. ToDo
+
+    **Egg Wash**
+
     10. Brush top of pie with egg wash: Whisk egg and milk together to make an egg wash. Brush the top crust with egg wash. Score the pie on the top with several cuts (so steam can escape while cooking).
     10. Bake: Place the pie on the middle rack of the oven with a foil or Silpat lined baking pan positioned on the lower rack to catch any filling that may bubble over. Bake for 20 minutes at 220°C. Reduce heat to 180°C and bake for 30 to 40 minutes more or until juices are bubbling and have thickened.
 

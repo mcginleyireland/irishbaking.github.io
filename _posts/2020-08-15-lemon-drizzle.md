@@ -26,14 +26,15 @@ recipe:
   directions_markdown: |-
     **Cake**
 
-    1. Heat oven to 180° C. Butter and flour a 12-cup Bundt pan. In a medium bowl, cream the sugar and butter.
+    1. Heat oven to 180° C. Grease and line a 12lb load tin. In a mizing bowl, cream the sugar and butter.
     2. Add the eggs, lemon rind, flour and milk together and beat until combined. Scraping down the sides of the bowl as necessary.
-    3. 
-    4. 
+    3. Pour the mixture into the loaf tin and bake for 45 minutes at 180° C.
 
     **Lemon Drizzle**
 
-    1. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
+    1. In a small bowl, whisk together icing sugar and lemon juice.
+    2. When the cake is done, poke fork holes into the cake so that the lemon mixure can go deep into the cake.
+    3. Drizzle over the sugar and lemon mixture while the cake is still hot.
 ---
 If you're a sour fan you're going to love this cake. Lemon Drizzle is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
 
