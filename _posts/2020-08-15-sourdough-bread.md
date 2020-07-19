@@ -2,7 +2,7 @@
 date: 2020-08-15
 title: Sourdough Bread
 categories:
-  - Bread
+  - Breads
 featured_image: https://irishbaking.ie/images/Sourdough_Bread/Image_3.jpg
 recipe:
   servings: 12 slices

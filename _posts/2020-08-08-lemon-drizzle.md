@@ -2,7 +2,7 @@
 date: 2020-08-08
 title: Raspberry Pie
 categories:
-  - Cake
+  - Cakes
 featured_image: https://irishbaking.ie/images/Lemon_Drizzle/Image_3.jpg
 recipe:
   servings: 12 slices
