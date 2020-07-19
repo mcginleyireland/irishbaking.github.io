@@ -9,18 +9,24 @@ recipe:
   prep: 15 minutes
   cook: 65 minutes
   ingredients_markdown: |-
+    **Pastery**
+
     * 2 cups, 16 oz, 260 g of all purpose flour
     * 2 teaspoons of sugar
     * 1 cup, 8 ounces, 225 g of unsalted butter cubed
     * 1 teaspoon of salt (skip if using salted butter)
     * 1/2 cup, 115 ml of full fat sour cream (not light sour cream)
-    * 
+
+    **Filling**
+
     * 6 cups (about 2 1/4 pounds or 1 kilo) of fresh (or frozen) blueberries, rinsed and stems removed (if using frozen, defrost and drain first)
     * 1 teaspoon lemon zest
     * 1 Tbsp lemon juice
     * 1/4 cup, 30g of cornstarch or all-purpose flour
     * 1/2 cup, 100f of white granulated sugar
-    * 
+
+    **Egg Wash**
+
     * 1 egg
     * 1 tablespoon milk
   directions_markdown: |-

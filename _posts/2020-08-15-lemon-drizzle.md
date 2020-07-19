@@ -9,6 +9,8 @@ recipe:
   prep: 15 minutes
   cook: 45 minutes
   ingredients_markdown: |-
+    **Cake**
+
     * 6oz unsalted butter
     * 9oz of caster sugar
     * 1 teaspoon salt
@@ -16,6 +18,9 @@ recipe:
     * 6 tablespoons of milk
     * Rind of 1 lemon
     * 3 large eggs
+
+    **Lemon Drizzle**
+
     * 3 tablespoons of icing sugar
     * 3 tablespoons of lemon juice
   directions_markdown: |-
