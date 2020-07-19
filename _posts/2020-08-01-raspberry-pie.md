@@ -9,17 +9,17 @@ recipe:
   prep: 15 minutes
   cook: 65 minutes
   ingredients_markdown: |-
-    * 1 cup unsalted butter
-    * 2 1/2 cups all-purpose flour
-    * 1 teaspoon salt
-    * 1/2 teaspoon baking soda
-    * 1/2 teaspoon baking powder
-    * 3 cups of sugar
-    * 2 teaspoons of lemon zest
-    * 6 teaspoons of lemon juice
-    * 6 eggs
-    * 1 cup Greek yogurt
-    * 1 cup confectioners’ sugar
+    * 2 cups, 16 oz, 260 g of all purpose flour
+    * 2 teaspoons of sugar
+    * 1 cup, 8 ounces, 225 g of unsalted butter cubed
+    * 1 teaspoon of salt (skip if using salted butter)
+    * 1/2 cup, 115 ml of full fat sour cream (not light sour cream)
+    * 
+    * 6 cups (about 2 1/4 pounds or 1 kilo) of fresh (or frozen) blueberries, rinsed and stems removed (if using frozen, defrost and drain first)
+    * 1 teaspoon lemon zest
+    * 1 Tbsp lemon juice
+    * 1/4 cup (about 30g) cornstarch, all-purpose flour, or quick cooking "minute" tapioca* (for thickening)
+    * 1/2 cup white granulated sugar (100g)
   directions_markdown: |-
     1. Heat oven to 325° F. Butter and flour a 12-cup Bundt pan. In a medium bowl, whisk together the flour, salt, baking soda, and baking powder.
     2. Using an electric mixer, beat the butter, granulated sugar, and lemon zest on medium-high until light and fluffy, 3 to 4 minutes. Beat in 4 tablespoons of the lemon juice, then the eggs, one at a time, scraping down the sides of the bowl as necessary.
