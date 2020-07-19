@@ -24,11 +24,16 @@ recipe:
     * 3 tablespoons of icing sugar
     * 3 tablespoons of lemon juice
   directions_markdown: |-
+    **Cake**
+
     1. Heat oven to 180° C. Butter and flour a 12-cup Bundt pan. In a medium bowl, cream the sugar and butter.
     2. Add the eggs, lemon rind, flour and milk together and beat until combined. Scraping down the sides of the bowl as necessary.
-    3. Reduce mixer speed to low. Add half the flour mixture, then the yogurt, and then the remaining flour mixture. Mix just until combined (do not overmix).
-    4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
-    5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
+    3. 
+    4. 
+
+    **Lemon Drizzle**
+
+    1. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
 If you're a sour fan you're going to love this cake. Lemon Drizzle is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
 
