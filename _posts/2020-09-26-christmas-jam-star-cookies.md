@@ -2,7 +2,8 @@
 date: 2020-09-26
 title: Christmas Jam Star Cookies
 categories:
-  - Breads
+  - Christmas
+  - Cookies
 featured_image: https://irishbaking.ie/images/Sourdough_Bread/Image_3.jpg
 recipe:
   servings: 12 slices
