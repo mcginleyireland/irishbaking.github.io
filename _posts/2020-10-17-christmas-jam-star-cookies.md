@@ -4,7 +4,7 @@ title: Christmas Jam Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Sourdough_Bread/Image_3.jpg
+featured_image: https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -30,21 +30,21 @@ recipe:
 ---
 If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
 
-![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_1.jpg)
 
 You can add extra flavour with berries.
 
-![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_2.jpg)
 
 You can add extra flavour with berries.
 
-![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg)
 
 You can add extra flavour with berries.
 
-![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg)
 You can add extra flavour with berries.
 
-![Cake](https://irishbaking.ie/images/Sourdough_Bread/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_5.jpg)
 
 Or a caramel sauce.
