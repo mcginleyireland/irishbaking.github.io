@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Irish Baking
 url: "https://irishbaking.ie/"
 baseurl:
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Irish Baking food blog.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Irish Baking
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -74,14 +74,8 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
+
 
 _options:
   author_image:
