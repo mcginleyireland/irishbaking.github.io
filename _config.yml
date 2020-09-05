@@ -13,12 +13,12 @@ logo: /siteicon.png
 description: Irish Baking food blog.
 author:
   name:
-  email:
+  email: mcginleyireland@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Irish Baking
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://irishbaking.ie/
 
 # -----
 # Build
