@@ -50,13 +50,13 @@ a { text-decoration: none; color: #007eff; }
 
 .post .recipe-contents ul li { list-style-type: none; }
 
-.post .recipe-contents ul li:before { content: '\00bb'; color: #ff4e4e; padding-right: 0.5em; }
+.post .recipe-contents ul li:before { content: '\00bb'; color: lightpink; padding-right: 0.5em; }
 
 .post .recipe-contents ol { padding: 0; }
 
 .post .recipe-contents ol li { counter-increment: step-counter; list-style-type: none; position: relative; margin-left: 34px; }
 
-.post .recipe-contents ol li:before { content: counter(step-counter); margin-right: 0px; background-color: #ff4e4e; color: white; /* padding: 1px 7px; */ font-size: .7em; position: absolute; left: -34px; top: -2px; width: 25px; text-align: center; }
+.post .recipe-contents ol li:before { content: counter(step-counter); margin-right: 0px; background-color: lightpink; color: white; /* padding: 1px 7px; */ font-size: .7em; position: absolute; left: -34px; top: -2px; width: 25px; text-align: center; }
 
 .post .recipe-contents .ingredients { width: 250px; padding: 0 43px 0 0; }
 
@@ -85,10 +85,6 @@ a { text-decoration: none; color: #007eff; }
 .sharing a.instagram { background-color: #f167f5; }
 
 .sharing a.linkedin { background-color: #0077b5; }
-
-.sharing a.pinterest { background-color: #C92228; }
-
-.sharing a.pinterest-icon:hover svg { fill: #bd081c; }
 
 .pagination { text-align: center; margin: 50px 0 0 0; }
 
@@ -185,36 +181,5 @@ nav a:hover { color: #000; }
 .cms-editor-active .editor-link { display: inline-block; margin: 0 auto 20px auto; padding: 10px 20px; }
 
 .cms-editor-active nav .editor-link { display: inline; margin: 0; padding: 20px 15px; }
-
-/**
-* @license lyradesigns.com v1
-* Updated: Dec 17, 2014
-* Add pin buttons to images
-* Copyright (c) 2014 Jonas Goslow - LYRA
-* Released under the MIT license
-* https://github.com/timmywil/jquery.panzoom/blob/master/MIT-License.txt
-
-Customize these however you like.
-
-*/
-.imgPinWrap { position: relative; display: inline-block; }
-
-.imgPinWrap .pin { opacity: 0; position: absolute; display: block; -webkit-transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -o-transition: all .25s ease-in-out; transition: all .25s ease-in-out; }
-
-.imgPinWrap .pin img { display: block; }
-
-.imgPinWrap .pin:hover { box-shadow: 0 0 5px #fff; }
-
-.imgPinWrap:hover .pin { opacity: 1; }
-
-.imgPinWrap .left { left: 15px; }
-
-.imgPinWrap .right { right: 15px; }
-
-.imgPinWrap .bottom { bottom: 15px; }
-
-.imgPinWrap .top { top: 15px; }
-
-.imgPinWrap .center { left: 50%; top: 50%; }
 
 /*# sourceMappingURL=screen.css.map */

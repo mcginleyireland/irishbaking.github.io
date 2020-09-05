@@ -11,50 +11,55 @@ recipe:
   ingredients_markdown: |-
     **Pastery**
 
-    * 2 cups, 16 oz, 260 g of all purpose flour
+    * 260g (16oz) of all purpose flour
     * 2 teaspoons of sugar
-    * 1 cup, 8 ounces, 225 g of unsalted butter cubed
-    * 1 teaspoon of salt (skip if using salted butter)
-    * 1/2 cup, 115 ml of full fat sour cream (not light sour cream)
+    * 225g (8oz) of unsalted butter cubed
+    * 1 tsp of salt (skip if using salted butter)
+    * 115ml (3.9 fl oz) of full fat sour cream (not light sour cream)
 
     **Filling**
 
-    * 6 cups, 1 kg of fresh  raspberries, rinsed and stems removed
-    * 1 teaspoon lemon zest
-    * 1 Tbsp lemon juice
-    * 1/4 cup, 30g of cornstarch or all-purpose flour
-    * 1/2 cup, 100f of white granulated sugar
+    * 1kg (35oz) of fresh  raspberries, rinsed and stems removed
+    * 1 tsp lemon zest
+    * 1 tbsp lemon juice
+    * 30g (1oz) of cornstarch or all-purpose flour
+    * 100g (3.5oz) of white granulated sugar
 
     **Egg Wash**
 
     * 1 egg
-    * 1 tablespoon milk
+    * 1 tbsp milk
   directions_markdown: |-
     **Pastery**
 
-    1. Cut butter into cubes and let sit for a couple minutes: Cut the butter into cubes and put in a warm spot to take the chill off (don't soften the butter, just let it sit out for a couple minutes when you take it out of the fridge)
-    2. Whisk together flour, salt, sugar: In a large bowl, whisk together the flour, salt, and sugar.
-    3. Work the butter into the flour with your hands: Sprinkled the cubes of butter over the flour. Use your clean hands to squish the flour and butter together with your thumbs, fingers, and knuckles. Work the butter into the dough until you have what resembles a coarse meal with some flattened chunks of butter.
-    4. Add sour cream: Add the sour cream to the flour butter mixture
-    5. Form dough into disks, refrigerate: Use your hands to gather the pastry dough together into a large ball. Use a knife to cut the ball in half. Form into two disks. As you work the dough into disks, it should end up smooth, having the consistency of Play-Doh. Don't worry about over-working this dough. Form the disks so that there are no cracks. Sprinkle all over with a little flour. Wrap tightly with plastic wrap. Once you wrap the dough disk in plastic wrap, you can massage the dough and the edges with your warm hands to close any cracks. Chill in the refrigerator for an hour or up to a day ahead.
-    6. Remove dough from the fridge, let sit for a few minutes, then roll out: After the dough has been sitting in the fridge for an hour, remove it and let it sit for 5-10 minutes at room temperature to become more malleable before rolling out. If it still feels too stiff to roll out, hold your hands around the edges to soften.
-    7. Place it on a lightly floured clean, flat surface. Roll it out into a circle about 12 inches wide or larger depending on your tart/pie dishs needs.
-    8. Place the rolled out dough on to a tart/pie dish. Trim the edges to 1/2 inch over the edge of the plan.
+    1. Cut butter into cubes and let sit for a couple minutes.
+    2. Whisk together flour, salt, sugar.
+    3. Work the butter into the flour mixture, slowly adding more and more softened butter cubes. Best thing to do is with clean hands to squish the flour and butter together with your thumbs and fingers. Keep going till it all looks incorporated.
+    4. Add the sour cream to the flour butter mixture
+    5. Form the dough into disks, wrap it and put it in the refrigerator. Here you can add flour to if needed. You'll need to leave this in the fridge for minimum an hour. Maximum a day or two.
+    6. When you remove the dough from the fridge, you'll need to let it sit for 15 minutes. Maybe more. At this time I'd preheat the oven to 220°C (430°F). After 15 minutes, start rolling out the dough.
+    7. After rolling the dough to your desired tickness, place the rolling pin under the dough and palce it on your tart/pie dish.
+    8. Trim the edges  of the dough to 10mm (0.5 inch) over the edge of the plan. In my one I didn't do this and I think it would have been a better idea.
 
     **Filling**
 
-    1. Preheat oven to 220°C.
-    2. Place the raspberries, sugar, cornstarch/flour, lemon zest, and lemon juice in a large bowl. Gently stir them so that all of the raspberries are coated with some sugar and flour.
-    3. Fill tart/pie dish with the berries.
-    4. Roll out the second dough disk to the same size and thickness as the first. Place on top of the berry filling.
-    5. I press the edges of the pastery with a fork, but what ever you were thought is fine by me.
+    1. Place the raspberries, sugar, cornstarch/flour, lemon zest, and lemon juice in a large bowl. Gently stir them so that all of the raspberries are coated with some sugar and flour.
+    2. Fill tart/pie dish with the berries.
+    3. Roll out the second dough disk to the same size and thickness as the first. Place on top of the berry filling.
+    4. I press the edges of the pastery with a fork, but what ever you were thought/learned/imagined is fine by me.
 
     **Egg Wash**
 
     1. Whisk egg and milk together to make an egg wash.
     2. Brush the top crust with egg wash.
     3. Poke your tart/pie with fork holes. (This is very important, so steam can escape while cooking).
-    3. Place the pie on the middle rack of the oven with a foil or Silpat lined baking pan positioned on the lower rack to catch any filling that may bubble over. Bake for 20 minutes at 220°C. Reduce heat to 180°C and bake for 30 to 40 minutes more or until juices are bubbling and have thickened.
+
+    **Bake**
+
+    1. Place the pie on the middle rack of the oven.
+    2. Bake for 20 minutes at 220°C (430°F).
+    3. Reduce heat to 180°C (360°F) and bake for 30 to 40 minutes more or until juices are bubbling and have thickened.
+    4. I also placed a tray under the pie incase my oven was too hot and more of the juices came out.
 
 ---
 One of my favourite things to do in the summer is to make pie from fresh ingredients. Something warm to eat with a nice cup of tea.
