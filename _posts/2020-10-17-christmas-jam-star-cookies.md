@@ -12,17 +12,17 @@ recipe:
   ingredients_markdown: |-
     **Cookie Shortbread**
 
-    * 175g unsalted butter
-    * 250g plain flour
-    * 100g icing sugar
-    * 1 tbs vanilla extract
+    * 250g (8.8oz) of plain flour
+    * 175g (6.2oz) of unsalted butter
+    * 100g (3.5oz) of icing sugar
+    * 1 tbs of vanilla extract
     * 1 egg yoke
 
     **Cookie Filling**
 
-    * 50g unsalted butter
-    * 160g icing sugar
-    * 120g jam of your choice
+    * 50g (1.8oz) of unsalted butter
+    * 160g (5.6oz) of icing sugar
+    * 120g (4.2oz) of jam of your choice
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
 
@@ -32,7 +32,7 @@ recipe:
     4. Add the vanilla extract and continue mixing.
     5. Add the egg yolk and continue mixing. (I accidentally added the whole egg and it still work out great)
     6. Knead the dough for a few minutes and make two balls of the dough.
-    7. Wrap the dough balls and put it into the fridge for an hour.
+    7. Wrap the dough balls and put it into the fridge for an hour. (This will last for longer but after maybe two days it'll be more difficult to roll out)
 
     **Cookie Shortbread Pastry - Part 2**
 
@@ -42,19 +42,16 @@ recipe:
 
     **Bake**
 
-    1. Heat oven to 160°C 120°F.
-    2. Bake for 10-15 mins. (Keep an eye on them to get make sure they're all the same color)
-    3. Let them cool for 5-10 mins and place them on a wire rack to cool more.
+    1. Bake for 10-15 mins at 160°C (320°F). (Keep an eye on them to get make sure they're all the same color)
+    2. Let them cool for 5-10 mins and place them on a wire rack to cool more.
 
     **Cookie Filling**
 
     1. With an electric whisk, whisk the butter, sugar and 40-50g of the jam together.
-    2. Clip the end of the piping bag and add a small nozzle to it.
-    3. Put the mixture into the piping bag.
-    4. Get another piping bag and add the remaining jam to it. (It's ok to just wack the jam onto the cookie instead of using another pipebag)
-    5. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle).
-    6. Fill the middle space with jam.
-    7. Then press the biscuit with a star hole on top of cookie you have put filling and jam on.
+    2. Clip the end of the piping bag and add a small nozzle to it. Put the mixture into the piping bag.
+    3. Get another piping bag and add the remaining jam to it. (It's ok to just wack the jam onto the cookie instead of using another pipebag)
+    4. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam.
+    5. Then press the biscuit with a star hole on top of cookie you have put filling and jam on.
 
 ---
 These Christmas Cookie look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
