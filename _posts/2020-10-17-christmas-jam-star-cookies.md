@@ -66,7 +66,7 @@ The star shape cut out in the middle is going to make these cookies stand out wi
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg)
 
-You can make them any sizes and just put jam on them and they still taste greate!
+You can make them any sizes and just put jam on them and they still taste great!
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg)
 
@@ -86,4 +86,4 @@ Just as much as the back!
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_9.jpg)
 
-Greate with a cup of tea!
+These will fly off the plate! So yummy!
