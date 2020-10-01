@@ -66,28 +66,24 @@ The star shape cut out in the middle is going to make these cookies stand out wi
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg)
 
-Putting these together was so much fun.
+You can make them any sizes and just put jam on them and they still taste greate!
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg)
 
-And even better to eat them.
+Putting these together was so much fun.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_5.jpg)
 
-Decorate your place with this amazing cookie.
+Showing the butter cream filling near the edges. So good but if you don't want to add it you don't have to.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_6.jpg)
 
-Decorate your place with this amazing cookie.
+The front likes to show off!
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_7.jpg)
 
-Decorate your place with this amazing cookie.
-
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_8.jpg)
-
-Decorate your place with this amazing cookie.
+Just as much as the back!
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_9.jpg)
 
-Decorate your place with this amazing cookie.
+Greate with a cup of tea!
