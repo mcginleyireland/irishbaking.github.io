@@ -4,11 +4,11 @@ title: Christmas Jam Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg
+featured_image: https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_8.jpg
 recipe:
   servings: 15 Cookies
-  prep: 30 minutes
-  cook: 65 minutes
+  prep: 40 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
     **Cookie Shortbread**
 
@@ -54,7 +54,7 @@ recipe:
     5. Then press the biscuit with a star hole on top of cookie you have put filling and jam on.
 
 ---
-These Christmas Cookie look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
+These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_1.jpg)
 
@@ -73,5 +73,21 @@ Putting these together was so much fun.
 And even better to eat them.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_5.jpg)
+
+Decorate your place with this amazing cookie.
+
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_6.jpg)
+
+Decorate your place with this amazing cookie.
+
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_7.jpg)
+
+Decorate your place with this amazing cookie.
+
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_8.jpg)
+
+Decorate your place with this amazing cookie.
+
+![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_9.jpg)
 
 Decorate your place with this amazing cookie.
