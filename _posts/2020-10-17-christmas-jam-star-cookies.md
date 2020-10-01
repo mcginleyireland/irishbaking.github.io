@@ -6,45 +6,71 @@ categories:
   - Cookies
 featured_image: https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg
 recipe:
-  servings: 12 slices
-  prep: 15 minutes
+  servings: 15 Cookies
+  prep: 30 minutes
   cook: 65 minutes
   ingredients_markdown: |-
-    * 1 cup unsalted butter
-    * 2 1/2 cups all-purpose flour
-    * 1 teaspoon salt
-    * 1/2 teaspoon baking soda
-    * 1/2 teaspoon baking powder
-    * 3 cups of sugar
-    * 2 teaspoons of lemon zest
-    * 6 teaspoons of lemon juice
-    * 6 eggs
-    * 1 cup Greek yogurt
-    * 1 cup confectioners’ sugar
+    **Cookie Shortbread**
+
+    * 175g unsalted butter
+    * 250g plain flour
+    * 100g icing sugar
+    * 1 tbs vanilla extract
+    * 1 egg yoke
+
+    **Cookie Filling**
+
+    * 50g unsalted butter
+    * 160g icing sugar
+    * 120g jam of your choice
   directions_markdown: |-
-    1. Heat oven to 325° F. Butter and flour a 12-cup Bundt pan. In a medium bowl, whisk together the flour, salt, baking soda, and baking powder.
-    2. Using an electric mixer, beat the butter, granulated sugar, and lemon zest on medium-high until light and fluffy, 3 to 4 minutes. Beat in 4 tablespoons of the lemon juice, then the eggs, one at a time, scraping down the sides of the bowl as necessary.
-    3. Reduce mixer speed to low. Add half the flour mixture, then the yogurt, and then the remaining flour mixture. Mix just until combined (do not overmix).
-    4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
-    5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
+    **Cookie Shortbread Pastry**
+
+    1. Cut butter into cubes and let sit for a couple minutes.
+    2. Work the butter into the flour mixture, slowly adding more and more softened butter cubes. Best thing to do is with clean hands to squish the flour and butter together with your thumbs and fingers. Keep going till it all looks incorporated.
+    3. Add the sugar and continue mixing.
+    4. Add the vanilla extract and continue mixing.
+    5. Add the egg yolk and continue mixing. (I accidentally added the whole egg and it still work out great)
+    6. Knead the dough for a few minutes and make two balls of the dough.
+    7. Wrap the dough balls and put it into the fridge for an hour.
+
+    1. Leave the dough out for a minimum of 15 mins.
+    2. Flour your counter and rolling pin. Roll out the dough. You want it to be about 2mm thick.
+    3. Use a star shape cookie cutter to cut out the stars and transfer to a baking tray.
+
+    **Bake**
+
+    1. Heat oven to 160°C 120°F. Butter and flour a 12-cup Bundt pan. In a medium bowl, whisk together the flour, salt, baking soda, and baking powder.
+    2. Bake for 10-15 mins. (Keep an eye on them to get make sure they're all the same color)
+    3. Let them cool for 5-10 mins and place them on a wire rack to cool more.
+
+    **Cookie Filling**
+
+    1. Whisk the butter, sugar and 50g of the jam with an electric whisk.
+    2. Transfer to a piping bag with a small round nozzle, or snip off the end to make a ½cm opening. Put the remaining jam in another piping bag and snip off the end to make a slightly smaller hole.
+    3. Pipe blobs of the filling around the edge of each whole biscuit, leaving a space in the centre.
+    4. Fill the space with jam, then sandwich a biscuit with a hole cut out on top of each one. Will keep in an airtight container for up to three days.
+
+
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
+These Christmas Cookie look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_1.jpg)
 
-You can add extra flavour with berries.
+Easy to roll and shape with your star cut outs.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_2.jpg)
 
-You can add extra flavour with berries.
+The star shape cut out in the middle is going to make these cookies stand out with the jam filling.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg)
 
-You can add extra flavour with berries.
+Putting these together was so much fun.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg)
-You can add extra flavour with berries.
+
+And even better to eat them.
 
 ![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_5.jpg)
 
-Or a caramel sauce.
+Decorate your place with this amazing cookie.
