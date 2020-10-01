@@ -11,25 +11,25 @@ recipe:
   ingredients_markdown: |-
     **Cake**
 
-    * 6oz unsalted butter
-    * 9oz of caster sugar
+    * 255g (9oz) of flour
+    * 170g (6oz) of unsalted butter
+    * 255g (9oz) of caster sugar
     * 1 teaspoon salt
-    * 9oz of flour
-    * 6 tablespoons of milk
+    * 6 tbsp of milk
     * Rind of 1 lemon
     * 3 large eggs
 
     **Lemon Drizzle**
 
-    * 3 tablespoons of icing sugar
-    * 3 tablespoons of lemon juice
+    * 3 tbsp of icing sugar
+    * 3 tbsp of lemon juice
   directions_markdown: |-
     **Cake**
 
-    1. Heat the oven to 180° C. Grease and line a 12lb load tin.
+    1. Heat the oven to 180°C (360°F). Grease and line a 12lb load tin.
     2 In a mizing bowl, cream the sugar and butter.
     3. Add the eggs, lemon rind, flour and milk together and beat until combined. Scraping down the sides of the bowl as necessary.
-    4. Pour the mixture into the loaf tin and bake for 45 minutes at 180° C.
+    4. Pour the mixture into the loaf tin and bake for 45 minutes at 180°C (360°F).
 
     **Lemon Drizzle**
 
