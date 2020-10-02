@@ -2,9 +2,8 @@
 date: 2020-10-03
 title: Plain Sourdough Banana Bread
 categories:
-  - Christmas
-  - Cookies
-featured_image: https://irishbaking.ie/images/Banana_Bread/Plain_Sourdough_Banana_Bread/Image_1.jpg
+  - Banana Breads
+featured_image: https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_1.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -56,14 +55,14 @@ recipe:
 ---
 Banana Bread and Sourdough, my two favourite things brought together. Really enjoyed this one.
 
-![Cake](https://irishbaking.ie/images/Banana_Bread/Plain_Sourdough_Banana_Bread/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_1.jpg)
 
 Smells so good.
 
-![Cake](https://irishbaking.ie/images/Banana_Bread/Plain_Sourdough_Banana_Bread/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_2.jpg)
 
 Really liked the combo of the banana bread and the sourdough.
 
-![Cake](https://irishbaking.ie/images/Banana_Bread/Plain_Sourdough_Banana_Bread/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_3.jpg)
 
 Really easy to slice and hard to stop :D!
