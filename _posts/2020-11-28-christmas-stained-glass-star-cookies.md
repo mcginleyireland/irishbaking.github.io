@@ -18,11 +18,9 @@ recipe:
     * 1 tbs of vanilla extract
     * 1 egg yoke
 
-    **Cookie Filling**
+    **Cookie Stained Glass**
 
-    * 50g (1.8oz) of unsalted butter
-    * 160g (5.6oz) of icing sugar
-    * 120g (4.2oz) of jam of your choice
+    * 50g of Isomalt (or Jolly Ranchers or Lolly Pops)
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
 
@@ -42,16 +40,12 @@ recipe:
 
     **Bake**
 
-    1. Bake for 10-15 mins at 160°C (320°F). (Keep an eye on them to get make sure they're all the same color)
-    2. Let them cool for 5-10 mins and place them on a wire rack to cool more.
-
-    **Cookie Filling**
-
-    1. With an electric whisk, whisk the butter, sugar and 40-50g of the jam together.
-    2. Clip the end of the piping bag and add a small nozzle to it. Put the mixture into the piping bag.
-    3. Get another piping bag and add the remaining jam to it. (It's ok to just wack the jam onto the cookie instead of using another pipebag)
-    4. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam.
-    5. Then press the biscuit with a star hole on top of cookie you have put filling and jam on.
+    1. Crush up your Jolly Ranchers or Lolly Pops if you're not going to be using Isomalt.
+    2. Don't place the Isomalt, Jolly Ranchers or Lolly Pops in the cookie holes just yet.
+    3. Bake for cookies for 7-12 mins at 160°C (320°F). (Keep an eye on them to get make sure they're all the same color)
+    4. Take out the cookies and add the Isomalt, Jolly Ranchers or Lolly Pops in the center of the cookies.
+    5. Bake for another 3 minutes or less at the same temperature.	
+    6. Let them cool for 5-10 mins and place them on a wire rack to cool more. The Isomalt will be difficult to remove from the baking tray straight away.
 
 ---
 These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
