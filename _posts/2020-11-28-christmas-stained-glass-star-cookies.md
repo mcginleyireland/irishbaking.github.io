@@ -4,7 +4,7 @@ title: Christmas Stained Glass Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Christmas_Star_Stained_Glass_Cookies/Image_9.jpg
+featured_image: https://irishbaking.ie/images/Christmas_Star_Stained_Glass_Cookies/Image_8.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -36,7 +36,9 @@ recipe:
 
     1. Take the dough out of the fridge and leave the dough out for a minimum of 15 mins.
     2. Flour your counter and rolling pin. Roll out the dough. You'll want it to be about 2mm thick.
-    3. Use a star shape cookie cutter to cut out the stars and transfer to a baking tray.
+    3. Use a star shape cookie cutter to cut out the star shapes and have star shaped holes in the middle.
+    4. With a staw, pierce a hole in one of the stars, so that you can put string through it later.
+    4. Then transfer to a baking tray.
 
     **Bake**
 
