@@ -4,7 +4,7 @@ title: Christmas Jam Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_8.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_8.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -56,34 +56,34 @@ recipe:
 ---
 These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_1.jpg)
 
 Easy to roll and shape with your star cut outs.
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_2.jpg)
 
 The star shape cut out in the middle is going to make these cookies stand out with the jam filling.
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_3.jpg)
 
 You can make them any sizes and just put jam on them and they still taste great!
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_4.jpg)
 
 Putting these together was so much fun.
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_5.jpg)
 
 Showing the butter cream filling near the edges. So good but if you don't want to add it you don't have to.
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_6.jpg)
 
 The front likes to show off!
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_7.jpg)
 
 Just as much as the back!
 
-![Cake](https://irishbaking.ie/images/Christmas_Star_Jam_Cookies/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_9.jpg)
 
 These will fly off the plate! So yummy!
