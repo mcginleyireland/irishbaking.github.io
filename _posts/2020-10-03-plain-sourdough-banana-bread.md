@@ -34,7 +34,7 @@ recipe:
     **Bake**
 
     1. Bake for 45-55 mins at 180°C (360°F).
-    2. Let them cool for 10-20 mins and place them on a wire rack to cool more.
+    2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
 ---
 Banana Bread and Sourdough, my two favourite things brought together. Really enjoyed this one.
@@ -45,4 +45,4 @@ Really liked the combo of the banana bread and the sourdough. Smells so good.
 
 ![Cake](https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_3.jpg)
 
-Really easy to slice and hard to stop :D!
+Easy to slice and hard to stop :D!
