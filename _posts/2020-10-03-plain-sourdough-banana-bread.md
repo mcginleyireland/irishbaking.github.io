@@ -5,9 +5,9 @@ categories:
   - Banana Breads
 featured_image: https://irishbaking.ie/images/Banana_Breads/Plain_Sourdough_Banana_Bread/Image_1.jpg
 recipe:
-  servings: 15 Cookies
-  prep: 40 minutes
-  cook: 30 minutes
+  servings: 12 Slices
+  prep: 15 minutes
+  cook: 45  minutes
   ingredients_markdown: |-
     **Cookie Shortbread**
 
