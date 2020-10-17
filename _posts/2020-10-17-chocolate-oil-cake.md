@@ -7,42 +7,60 @@ categories:
 featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.jpg
 recipe:
   servings: 12 Slices
-  prep: 15 minutes
-  cook: 45  minutes
+  prep: 25 minutes
+  cook: 60  minutes
   ingredients_markdown: |-
     **Chocolate Oil Cake**
 
-    * 250g (8.8oz) of self-rising  flour
-    * 225g (7.9oz) of brown sugar
-    * 200g (7oz) overripe bananas
-    * 100g (3.5oz) of sourdough starter
+    * 115g (4oz) of butter
+    * 120ml (4 fl/oz) of oil
+    * 240ml (8 fl/oz) of water
+    * 4 tbsp of cocoa powder
+    * 225g (8oz) of self-rising  flour
+    * 0.5 tsp of bread soda
+    * 340g (12oz) of brown sugar
     * 1.5 tbs of vanilla extract
-    * 0.25 tsp salt
-    * 120ml (4 fl/oz) oil
-    * 60ml (2 fl/oz) milk
-    * 2 eggs
-  directions_markdown: |-
+    * 120ml (4 fl/oz) of milk
+    * 2 beaten eggs
+
     **Chocolate Ganache**
 
-    1. Mash the bananas in a big bowl. Add the sugar, and vanilla extract. Keep mixing if you do not want chunky bananas bits in places of the banana bread.
-    2. Mix in the eggs one at a time.
-    3. Add the sourdough starter.
-    4. Sift in the flour slowly while mixing.
-    5. Add in the salt.
-    6. Add in the milk and oil. 
-    7. Pour the mixture into your baking tin (Which is greased with butter or lined with parchment paper)
+    * 115g (4oz) of Double Cream
+    * 120ml (4 fl/oz) of Chocolate
+    * 50g (2oz) walnuts
+  directions_markdown: |-
+    **Chocolate Oil Cake**
+
+    1. Add the butter, oil, water and cocoa powder to a pot.
+    2. Gently heat it up to melt the butter.
+    3. Add in the sugar until it is desolved.
+    4. Turn off the heat.
+    5. Add in the flour gradually.
+    6. Add in the bread soda. (It's ok to not have this in)
+    7. Add in the milk.
+    8. Beat the eggs in a seprate bowl and add it to the mix.
+    9. Add in the Vanilla Extract.
+    10. Transfer the mixture to a greaced tin or two greaced tins.
 
     **Bake**
 
-    1. Bake for 45-55 mins at 180°C (360°F).
+    1. Bake for 45-60 mins at 180°C (360°F).
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
+
+    **Chocolate Ganache**
+
+    1. Add the .
+    2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
+    3. 
+    4. 
+    5. 
 
 ---
 Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_1.jpg)
 
-Starting off with melting the butter with the oil.
+Starting off with melting the butter with the oil and water.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_2.jpg)
 

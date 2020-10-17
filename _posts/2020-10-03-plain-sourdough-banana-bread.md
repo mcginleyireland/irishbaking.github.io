@@ -9,7 +9,7 @@ recipe:
   prep: 15 minutes
   cook: 45  minutes
   ingredients_markdown: |-
-    **Cookie Shortbread**
+    **Plain Sourdough Banana Bread**
 
     * 250g (8.8oz) of self-rising  flour
     * 225g (7.9oz) of brown sugar
