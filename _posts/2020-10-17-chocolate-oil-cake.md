@@ -4,7 +4,7 @@ title: Chocolate Oil Cake
 categories:
   - Cakes
   - Chocolate
-featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_16.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_12.jpg
 recipe:
   servings: 12 Slices
   prep: 15 minutes
