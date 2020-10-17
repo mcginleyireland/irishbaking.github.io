@@ -4,7 +4,7 @@ title: Chocolate Oil Cake
 categories:
   - Cakes
   - Chocolate
-featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_12.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.jpg
 recipe:
   servings: 12 Slices
   prep: 15 minutes
@@ -38,7 +38,7 @@ recipe:
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
 ---
-Cholocate Oil Cake. This is something that was made for my Birthday and honestly I've only good memories attached to this cake.
+Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_1.jpg)
 
@@ -78,12 +78,8 @@ Topped with walnuts to add some crunch.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_10.jpg)
 
-Before adding the ganache you could cut the cake so the shape is less curvy.
+Before adding the ganache you could cut the cake so the shape is less curvy. But, does it taste as good as it looks?
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_11.jpg)
-
-Does it taste as good as it looks?
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_12.jpg)
 
 You bet :D!
