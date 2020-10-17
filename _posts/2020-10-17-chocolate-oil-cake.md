@@ -2,7 +2,7 @@
 date: 2020-10-17
 title: Chocolate Oil Cake
 categories:
-  - Cake
+  - Cakes
   - Chocolate
 featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_16.jpg
 recipe:
@@ -38,68 +38,52 @@ recipe:
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
 ---
-Banana Bread and Sourdough, my two favourite things brought together. Really enjoyed this one.
+Cholocate Oil Cake. This is something that was made for my Birthday and honestly I've only good memories attached to this cake.
+
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_1.jpg)
+
+Starting off with melting the butter with the oil.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_2.jpg)
 
-Really liked the combo of the banana bread and the sourdough. Smells so good.
+Adding the cocoa powder.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_3.jpg)
 
-Easy to slice and hard to stop :D!
+Stir to let the butter to melt.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_4.jpg)
 
-Easy to slice and hard to stop :D!
+I used seprate tins for this cake but if you use butter/oil to grease the sides you can use one tin and slice in half later on.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_5.jpg)
 
-Easy to slice and hard to stop :D!
+Making the ganache was not as easy as I'd hoped. Next time will deffo just use melted chocolate.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_6.jpg)
 
-Easy to slice and hard to stop :D!
+Heat the full fat cream in a bain marie.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_7.jpg)
 
-Easy to slice and hard to stop :D!
+When warm enough add the chocolate.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.jpg)
 
-Easy to slice and hard to stop :D!
+I coated the first cake with ganache on wire rack and then added the second cake on top.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_9.jpg)
 
-Easy to slice and hard to stop :D!
+Topped with walnuts to add some crunch.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_10.jpg)
 
-Easy to slice and hard to stop :D!
+Before adding the ganache you could cut the cake so the shape is less curvy.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_11.jpg)
 
-Easy to slice and hard to stop :D!
+Does it taste as good as it looks?
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_12.jpg)
 
-Easy to slice and hard to stop :D!
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_13.jpg)
-
-Easy to slice and hard to stop :D!
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_14.jpg)
-
-Easy to slice and hard to stop :D!
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_15.jpg)
-
-Easy to slice and hard to stop :D!
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_16.jpg)
-
-Easy to slice and hard to stop :D!
-
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_17.jpg)
-
-Easy to slice and hard to stop :D!
+You bet :D!
