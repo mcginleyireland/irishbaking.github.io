@@ -4,7 +4,7 @@ title: Chocolate Oil Cake
 categories:
   - Cakes
   - Chocolate
-featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_10.jpg
 recipe:
   servings: 12 Slices
   prep: 25 minutes
@@ -44,7 +44,7 @@ recipe:
 
     **Bake**
 
-    1. Bake for 45-60 mins at 180°C (360°F).
+    1. Bake for 50-65 mins at 180°C (360°F).
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
     **Chocolate Ganache**
@@ -75,7 +75,7 @@ Adding the cocoa powder.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_3.jpg)
 
-Stir to let the butter to melt.
+Adding in the sugar, flour, baking soda, milk, eggs and vanila extract.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_4.jpg)
 
@@ -87,11 +87,11 @@ Making the ganache was not as easy as I'd hoped. Next time will deffo just use m
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_6.jpg)
 
-Heat the full fat cream in a bain marie.
+Heat the double cream in a bain marie.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_7.jpg)
 
-When warm enough add the chocolate.
+When the cream was slightly simmering I added in the chocolate.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.jpg)
 
