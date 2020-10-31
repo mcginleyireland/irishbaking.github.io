@@ -27,7 +27,7 @@ recipe:
     **Cake**
 
     1. Heat the oven to 180°C (360°F). Grease and line a 12lb load tin.
-    2 In a mizing bowl, cream the sugar and butter.
+    2. In a mizing bowl, cream the sugar and butter.
     3. Add the eggs, lemon rind, flour and milk together and beat until combined. Scraping down the sides of the bowl as necessary.
     4. Pour the mixture into the loaf tin and bake for 45 minutes at 180°C (360°F).
 
