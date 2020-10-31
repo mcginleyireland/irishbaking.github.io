@@ -19,7 +19,7 @@ recipe:
     * 225g (8oz) of self-rising  flour
     * 0.5 tsp of bread soda
     * 340g (12oz) of brown sugar
-    * 1.5 tbs of vanilla extract
+    * 1.5 tsp of vanilla extract
     * 120ml (4 fl/oz) of milk
     * 2 beaten eggs
 

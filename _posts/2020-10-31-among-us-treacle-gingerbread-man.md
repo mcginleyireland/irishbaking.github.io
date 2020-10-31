@@ -3,7 +3,7 @@ date: 2020-10-31
 title: Among Ug Treacle Gingerbread Man
 categories:
   - Gingerbread
-featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_7.jpg
+featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_10.jpg
 recipe:
   servings: 12 Gingerbread Man
   prep: 25 minutes

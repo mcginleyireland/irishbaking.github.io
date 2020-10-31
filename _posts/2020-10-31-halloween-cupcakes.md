@@ -4,63 +4,57 @@ title: Halloween Cupcakes
 categories:
   - Cupcakes
   - Halloween
-featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_4.jpg
+featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg
 recipe:
-  servings: 12 Slices
+  servings: 6 Slices
   prep: 25 minutes
   cook: 60  minutes
   ingredients_markdown: |-
     **Cupcakes**
 
-    * 115g (4oz) of butter
-    * 120ml (4 fl/oz) of oil
-    * 240ml (8 fl/oz) of water
-    * 4 tbsp of cocoa powder
-    * 225g (8oz) of self-rising  flour
-    * 0.5 tsp of bread soda
-    * 340g (12oz) of brown sugar
-    * 1.5 tbs of vanilla extract
-    * 120ml (4 fl/oz) of milk
+    * 150g (5.3oz) of butter
+    * 150g (5.3oz) of self-rising  flour
+    * 150g (5.3oz) of white sugar
+    * 0.5 tsp of vanilla extract
     * 2 beaten eggs
 
     **Buttercream Icing**
 
-    * 300g (10 fl/oz) of Double Cream
-    * 200g (7oz) of Chocolate
-    * 50g (2oz) walnuts
+    * 100g (3.5 oz) of softened unsalted butter
+    * 200g (7 oz) of icing sugar
+    * 0.5 tsp of vanilla extract
+    * 1.5 tbsp of milk
   directions_markdown: |-
     **Cupcakes**
 
-    1. Add the butter, oil, water and cocoa powder to a pot.
-    2. Gently heat it up to melt the butter.
-    3. Add in the sugar until it is desolved.
-    4. Turn off the heat.
+    1. Heat the oven to 160°C (320°F). Grease and line a cupcake tin, or add cupcake liners.
+    2. In a mizing bowl, cream the sugar and butter.
+    3. Add in the 2 eggs.
+    4. Add the vanilla extract.
     5. Add in the flour gradually.
-    6. Add in the bread soda. (It's ok to not have this in)
-    7. Add in the milk.
-    8. Beat the eggs in a seprate bowl and add it to the mix.
-    9. Add in the Vanilla Extract.
-    10. Transfer the mixture to a greaced tin or two greaced tins.
+    6. Evenly add the mixture to the your cupcake tin. (I used two spoons or an icecream scoop with a regular spoon)
 
     **Bake**
 
-    1. Bake for 50-65 mins at 180°C (360°F).
+    1. Bake for 10-15 mins at 160°C (320°F).
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
     **Buttercream Icing**
 
-    1. Add the double cream to a bain marie and heat it up.
-    2. If you have a chocolate bar, finly chop it up and add it to a big bowl.
-    3. When the cream starts to simmer take it off the heat and add it to the bowl of finely chopped chocolate. (I added the chocolate to the heated cream and worked just as well)
-    4. Wait 2-3 minutes and start to stir.
-    5. When the chcolate is all melted, at this point you can let it cool down until you're ready to add it to the cake. The more you let it cool the harder the ganache is going to be.
-    6. Another tip while waiting, you can cut your cakes so that the shape will be more appealing. (I did not do this)
-    7. Also if you made one big cake, then cut it in half (horizontally) so that we can place the second piece on top in step 10.
-    8. When ready, put your bottom half cake on a wire rack and some parchment paper under the wire rack to catch the spillover of the ganach.
-    9. Pour some ganache on the top. (Doesn't matter if it's over the sides yet)
-    10. Add the other half of the cake on top.
-    11. Then add more of the ganache over the cake until it is covered on top and the sides.
-    12. Chop some walnuts and sprinkle over the top.
+    1. Beat the butter for 3-5 minutes. (Make sure it's soft to squeeze, if it looks oily pop it in the fridge for 5 minutes)
+    2. Sift the icing sugar.
+    3. Add in the half icing sugar when the butter looks a bit more white. (It's more white because we've added air to it when beating the butter)
+    4. Slowly encorporate the icing sugar and then beat for 3-5 minutes. (Medium to high)
+    5. Add in the second half of the icing sugar.
+    6. Again, slowly encorporate the icing sugar and then beat for 3-5 minutes. (Medium to high)
+    7. At this stage it should be pretty smooth but also stiff at the same time.
+    8. Add in the vanilla extract.
+    9. Add in the milk gradually. (Not all may be needed)
+    10. If it still looks wet, you can add a small bit more of icing sugar.
+    11. You'll know it's done when you pull away your whisk and it brings some of the buttercream with it.
+    12. Move half of the mixture to a bowl and add the black food colouring. (Or any other you'd like)
+    13. Move the other half of the mixture to a bowl and add the orange food colouring. (Or any other you'd like)
+    14. 
 
 ---
 Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
