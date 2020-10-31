@@ -28,7 +28,7 @@ recipe:
     **Cupcakes**
 
     1. Heat the oven to 160°C (320°F). Grease and line a cupcake tin, or add cupcake liners.
-    2. In a mizing bowl, cream the sugar and butter.
+    2. In a mixing bowl, cream the sugar and butter.
     3. Add in the 2 eggs.
     4. Add the vanilla extract.
     5. Add in the flour gradually.
