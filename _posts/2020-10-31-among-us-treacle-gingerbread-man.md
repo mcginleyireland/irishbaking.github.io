@@ -88,7 +88,7 @@ Making the ganache was not as easy as I'd hoped. Next time will deffo just use m
 
 Heat the double cream in a bain marie.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_7.jpg)
 
 I coated the first cake with ganache on wire rack and then added the second cake on top.
 
@@ -96,10 +96,6 @@ I coated the first cake with ganache on wire rack and then added the second cake
 
 Topped with walnuts to add some crunch.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_11.jpg)
-
-You bet :D!
-
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_13.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_12.jpg)
 
 You bet :D!
