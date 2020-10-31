@@ -62,36 +62,36 @@ recipe:
     12. Chop some walnuts and sprinkle over the top.
 
 ---
-Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
+I've learned so much making these lil guys! Can't wait to make them again and impove on them!
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_1.jpg)
 
-Starting off with melting the butter with the oil and water.
+I didn't have a cookie cutterer for them so had to draw and make my own.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_3.jpg)
 
-Adding in the sugar, flour, baking soda, milk, eggs and vanila extract.
+No one ever shows the mess you make when you bake.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_4.jpg)
 
-I used seprate tins for this cake but if you use butter/oil to grease the sides you can use one tin and slice in half later on.
+Really glad to get them in the oven. They also didn't grow out so they turned out great.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_5.jpg)
 
-Making the ganache was not as easy as I'd hoped. Next time will deffo just use melted chocolate.
+The second set of men I did cut a bigger gap around their legs.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_6.jpg)
 
-Heat the double cream in a bain marie.
+This is where most of the learning came from. I learned how to make sure the icing won't be lumpy.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_7.jpg)
 
-I coated the first cake with ganache on wire rack and then added the second cake on top.
+Still came out amazingly well.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_9.jpg)
 
-Topped with walnuts to add some crunch.
+Wanted to see what it would look like if I didn't do the shading. Not so bad.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_12.jpg)
 
-You bet :D!
+Halloween ready!
