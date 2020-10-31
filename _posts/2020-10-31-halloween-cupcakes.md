@@ -4,7 +4,7 @@ title: Halloween Cupcakes
 categories:
   - Cupcakes
   - Halloween
-featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg
+featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_4.jpg
 recipe:
   servings: 12 Slices
   prep: 25 minutes
