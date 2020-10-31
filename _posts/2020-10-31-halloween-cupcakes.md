@@ -51,39 +51,42 @@ recipe:
     8. You'll know it's done when you pull away your whisk and it brings some of the buttercream with it.
     9. Move half of the mixture to a bowl and add the black food colouring. (Or any other you'd like)
     10. Move the other half of the mixture to a bowl and add the orange food colouring. (Or any other you'd like)
-    11. 
+    11. In a piping bag add your large star piece but any design can work.
+    12. Add the black icing to one side of the piping bag and the orange icing to the other side of the piping bag.
+    13. Then pipe along the edges of the cupcake first and in a circular motion work your way into the middle.
+    14. Decorate to make it more halloweenie! I added Cats and Spiders I got in the baking shop.
 
 ---
-Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
+These spookie cupcakes that you'll want to eat straight away.
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_1.jpg)
 
-Starting off with melting the butter with the oil and water.
+Somehow managed not to get this mixure all over the place!
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_2.jpg)
 
-Adding the cocoa powder.
+These came out flat at the top. Perfect to add buttercream icing to.
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_3.jpg)
 
-Adding in the sugar, flour, baking soda, milk, eggs and vanila extract.
+Always let it cool before adding any kind of icing.
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_4.jpg)
 
-I used seprate tins for this cake but if you use butter/oil to grease the sides you can use one tin and slice in half later on.
+Didn't mage to get them all to be evenly black and orange but I think they still look gread.
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg)
 
-Making the ganache was not as easy as I'd hoped. Next time will deffo just use melted chocolate.
+Harest part was deciding what to eat first.
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_6.jpg)
 
-Heat the double cream in a bain marie.
+Spider?
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_7.jpg)
 
-When the cream was slightly simmering I added in the chocolate.
+Or Cat?
 
 ![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_8.jpg)
 
-I coated the first cake with ganache on wire rack and then added the second cake on top.
+Always Cat!
