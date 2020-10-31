@@ -1,6 +1,6 @@
 ---
 date: 2020-10-31
-title: Among Ug Treacle Gingerbread Man
+title: Among Us Treacle Gingerbread Man
 categories:
   - Gingerbread
 featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_13.jpg
