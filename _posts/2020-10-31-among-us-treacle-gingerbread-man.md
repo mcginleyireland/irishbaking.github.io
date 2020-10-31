@@ -1,6 +1,6 @@
 ---
 date: 2020-10-31
-title: Among Us Treacle Gingerbread Man
+title: Treacle Gingerbread Man - Among Us
 categories:
   - Gingerbread
 featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_13.jpg
@@ -48,7 +48,7 @@ recipe:
 
     **Bake**
 
-    1. Bake for 50-65 mins at 180°C (360°F).
+    1. Bake for 8-12 mins at 160°C (320°F).
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
     **Royal Icing**
