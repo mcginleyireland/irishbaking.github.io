@@ -68,10 +68,6 @@ Cholocate Oil Cake. This is something that was made for my Birthday and honestly
 
 Starting off with melting the butter with the oil and water.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_2.jpg)
-
-Adding the cocoa powder.
-
 ![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_3.jpg)
 
 Adding in the sugar, flour, baking soda, milk, eggs and vanila extract.
