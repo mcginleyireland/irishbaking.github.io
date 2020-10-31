@@ -6,7 +6,7 @@ categories:
   - Halloween
 featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg
 recipe:
-  servings: 6 Slices
+  servings: 12 Cupcakes
   prep: 25 minutes
   cook: 60  minutes
   ingredients_markdown: |-
@@ -41,20 +41,17 @@ recipe:
 
     **Buttercream Icing**
 
-    1. Beat the butter for 3-5 minutes. (Make sure it's soft to squeeze, if it looks oily pop it in the fridge for 5 minutes)
-    2. Sift the icing sugar.
-    3. Add in the half icing sugar when the butter looks a bit more white. (It's more white because we've added air to it when beating the butter)
-    4. Slowly encorporate the icing sugar and then beat for 3-5 minutes. (Medium to high)
-    5. Add in the second half of the icing sugar.
-    6. Again, slowly encorporate the icing sugar and then beat for 3-5 minutes. (Medium to high)
-    7. At this stage it should be pretty smooth but also stiff at the same time.
-    8. Add in the vanilla extract.
-    9. Add in the milk gradually. (Not all may be needed)
-    10. If it still looks wet, you can add a small bit more of icing sugar.
-    11. You'll know it's done when you pull away your whisk and it brings some of the buttercream with it.
-    12. Move half of the mixture to a bowl and add the black food colouring. (Or any other you'd like)
-    13. Move the other half of the mixture to a bowl and add the orange food colouring. (Or any other you'd like)
-    14. 
+    1. Beat the butter for 3-5 minutes. (Make sure the butter is soft to squeeze, if it looks oily pop it in the fridge for 5 minutes) (It's more white because we've added air to it when beating the butter)
+    2. Sift the icing sugar add in the half icing sugar when the butter looks a bit more white. Beat for 3-5 minutes. (Medium to high)
+    3. Add in the second half of the icing sugar. Again, beat for 3-5 minutes. (Medium to high)
+    4. At this stage it should be pretty smooth but also stiff at the same time.
+    5. Add in the vanilla extract.
+    6. Add in the milk gradually. (Not all may be needed)
+    7. If it still looks wet, you can add a small bit more of icing sugar.
+    8. You'll know it's done when you pull away your whisk and it brings some of the buttercream with it.
+    9. Move half of the mixture to a bowl and add the black food colouring. (Or any other you'd like)
+    10. Move the other half of the mixture to a bowl and add the orange food colouring. (Or any other you'd like)
+    11. 
 
 ---
 Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.

@@ -5,7 +5,7 @@ categories:
   - Gingerbread
 featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_10.jpg
 recipe:
-  servings: 12 Gingerbread Man
+  servings: 16 Gingerbread Man
   prep: 25 minutes
   cook: 60  minutes
   ingredients_markdown: |-
