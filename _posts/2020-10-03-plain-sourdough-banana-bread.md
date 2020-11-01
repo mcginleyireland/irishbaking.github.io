@@ -11,14 +11,14 @@ recipe:
   ingredients_markdown: |-
     **Plain Sourdough Banana Bread**
 
-    * 250g (8.8oz) of self-rising  flour
-    * 225g (7.9oz) of brown sugar
+    * 200g (7oz) of self-rising  flour
+    * 200g (7oz) of brown sugar
     * 200g (7oz) overripe bananas
     * 100g (3.5oz) of sourdough starter
-    * 1.5 tbs of vanilla extract
+    * 1.5 tsp of vanilla extract
     * 0.25 tsp salt
-    * 120ml (4 fl/oz) oil
-    * 60ml (2 fl/oz) milk
+    * 100ml (3.4 fl/oz) oil
+    * 50ml (1.7 fl/oz) milk
     * 2 eggs
   directions_markdown: |-
     **Plain Sourdough Banana Bread**
@@ -33,7 +33,7 @@ recipe:
 
     **Bake**
 
-    1. Bake for 45-55 mins at 180°C (360°F).
+    1. Bake for 45-65 mins at 180°C (360°F).
     2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
 
 ---
