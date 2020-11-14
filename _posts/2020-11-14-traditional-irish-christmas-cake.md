@@ -80,7 +80,7 @@ Placing that in the perfectly preped cake tin.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_6.jpg)
 
-Added in the 10% of the saved batter. (So that the raisins at the top don't burn.
+Added in the 10% of the saved batter. (So that the raisins at the top don't burn)
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_7.jpg)
 
