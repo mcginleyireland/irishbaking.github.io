@@ -4,7 +4,7 @@ title: Traditional Irish Christmas Cake
 categories:
   - Christmas
   - Cakes
-featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_7.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg
 recipe:
   servings: 20 Slices
   prep: 40 minutes
