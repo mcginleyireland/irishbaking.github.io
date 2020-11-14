@@ -44,9 +44,17 @@ recipe:
 
     **Cake**
 
-    1. Take the dough out of the fridge and leave the dough out for a minimum of 15 mins.
-    2. Flour your counter and rolling pin. Roll out the dough. You'll want it to be about 2mm thick.
-    3. Use a star shape cookie cutter to cut out the stars and transfer to a baking tray.
+    1. Cream the butter and sugar together.
+    2. Sift in the flour and mixed spices.
+    3. Add in the eggs gradually.
+    4. When it's well mixed remove around 10% of the mixture and place it in a small bowl.
+    5. Back to the 90%: Add in the ground almonds.
+    6. Add in the fruit soaked in whiskey and the optional tin of strawberries. (Mix by wodden spoon as it won't break the fruit as much)
+    7. At this point it's tradition to make a wish and mix the mixture infront of you. You can get everyone in the house to do so.
+    8. Place the 90% mixture (cake batter and fruit mix) into your baking tin.
+    9. Some people put a well in the middle but I don't for my Christmas cakes, but if you would like to do that now is the time.
+    10. Spread the 10% of the cake batter on top so it covers the raisins so that it doesn't burn.
+    11. If you forgot about the 10% you can push the raisins down by pouring boil hot water over the round end of a spoon and pushing the raisins down.	
 
     **Bake**
 
