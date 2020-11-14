@@ -60,32 +60,32 @@ This is one of the Christmas Recipies that has been handed down to me. It has sl
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_1.jpg)
 
-Easy to roll and shape with your star cut outs.
+Bring out the fruit and get this soaking in whiskey for a day to two.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_2.jpg)
 
-The star shape cut out in the middle is going to make these Cakes stand out with the jam filling.
+I'd rarly show photos of the lining of a tin, but this is really important for Christmas Cake.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_3.jpg)
 
-You can make them any sizes and just put jam on them and they still taste great!
+Reason being is it's going to be in the oven for 3-4 hours so you don't want the edges to burn.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_4.jpg)
 
-Putting these together was so much fun.
+Mixing in 90% of the batter to the whiskey soaked fruits. 
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_5.jpg)
 
-Showing the butter cream filling near the edges. So good but if you don't want to add it you don't have to.
+Placing that in the perfectly preped cake tin.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_6.jpg)
 
-The front likes to show off!
+Added in the 10% of the saved batter. (So that the raisins at the top don't burn.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_7.jpg)
 
-Just as much as the back!
+When it comes out of the oven it's best to pour some more whiskey over it!
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_8.jpg)
 
-These will fly off the plate! So yummy!
+The color is just amazing! Very excited for Christmas now!
