@@ -49,7 +49,7 @@ recipe:
     **Cookie Filling**
 
     1. With an electric whisk, whisk the butter, sugar and 40-50g of the jam together.
-	2. Adding more icing sugar if needed.
+    2. Adding more icing sugar if needed.
     3. Clip the end of the piping bag and add a small nozzle to it. Put the mixture into the piping bag.
     4. Get another piping bag and add the remaining jam to it. (It's ok to just wack the jam onto the cookie instead of using another pipebag)
     5. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam.
