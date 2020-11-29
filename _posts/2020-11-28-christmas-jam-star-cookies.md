@@ -4,7 +4,7 @@ title: Christmas Jam Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_8.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_8_scaled.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -58,7 +58,7 @@ recipe:
 ---
 These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_1_scaled.jpg)
 
 Easy to roll and shape with your star cut outs.
 
