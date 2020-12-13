@@ -12,8 +12,8 @@ recipe:
   ingredients_markdown: |-
     **Cookie Shortbread**
 
-    * 250g (8.8oz) of plain flour
-    * 175g (6.2oz) of unsalted butter
+    * 300g (10.5oz) of plain flour
+    * 200g (7oz) of unsalted butter
     * 100g (3.5oz) of icing sugar
     * 1 tbs of vanilla extract
     * 1 egg yoke
@@ -28,9 +28,10 @@ recipe:
     2. Work the butter into the flour mixture, slowly adding more and more softened butter cubes. Best thing to do is with clean hands to squish the flour and butter together with your thumbs and fingers. Keep going till it all looks incorporated.
     3. Add the sugar and continue mixing.
     4. Add the vanilla extract and continue mixing.
-    5. Add the egg yolk and continue mixing. (I accidentally added the whole egg and it still work out great)
-    6. Knead the dough for a few minutes and make two balls of the dough.
-    7. Wrap the dough balls and put it into the fridge for an hour. (This will last for longer but after maybe two days it'll be more difficult to roll out)
+    5. Add the egg yolk and continue mixing.
+    6. (I accidentally added the whole egg and it still work out great) (Add more icing sugar if the mix is too wet)
+    7. Knead the dough for a few minutes and make two balls of the dough.
+    8. Wrap the dough balls and put it into the fridge for an hour. (This will last for longer but after maybe two days it'll be more difficult to roll out)
 
     **Cookie Shortbread Pastry - Part 2**
 
