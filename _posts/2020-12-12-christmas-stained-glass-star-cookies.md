@@ -4,7 +4,7 @@ title: Christmas Stained Glass Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_8.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_9.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -85,6 +85,3 @@ Putting the balls in 3 minutes before the end worked out way better.
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_9.jpg)
-
-Looks just as great on a plate!
