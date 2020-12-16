@@ -39,7 +39,8 @@ recipe:
 
     1. Take the dough out of the fridge and leave the dough out for a minimum of 15 mins.
     2. Flour your counter and rolling pin. Roll out the dough. You'll want it to be about 2mm thick.
-    3. Use a star shape cookie cutter to cut out the stars and transfer to a baking tray.
+    3. Get out your star shaped cookie cutters, but any shaped cookie cutter will work. You can even cut it by eye.
+    4. I cut out the my star shapes and also I cut out ones that have a small star shape in the middle.
 
     **Bake**
 
@@ -56,7 +57,7 @@ recipe:
     6. Then press the biscuit with a star hole on top of cookie you have put filling on.
 
 ---
-These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
+These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good. Any shapes can be used to create these delicious cookies.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_1_scaled.jpg)
 
