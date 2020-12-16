@@ -4,7 +4,7 @@ title: Christmas Jam Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_8_scaled.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_9_scaled.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -53,7 +53,7 @@ recipe:
     3. Clip the end of the piping bag and add a small nozzle to it. Put the mixture into the piping bag.
     4. Get another piping bag and add the remaining jam/jelly/preserve to it. (It's ok to just wack the jam/jelly/preserve onto the cookie instead of using another pipebag)
     5. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam/jelly/preserve.
-    6. Then press the biscuit with a star hole on top of cookie you have put filling and jam/jelly/preserve on.
+    6. Then press the biscuit with a star hole on top of cookie you have put filling on.
 
 ---
 These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
@@ -86,6 +86,3 @@ The front likes to show off!
 
 Just as much as the back!
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_9_scaled.jpg)
-
-These will fly off the plate! So yummy!
