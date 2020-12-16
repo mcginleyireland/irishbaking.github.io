@@ -22,7 +22,7 @@ recipe:
 
     * 50g (1.8oz) of unsalted butter
     * 150g (5.3oz) of icing sugar
-    * 100g (3.5oz) of jam of your choice
+    * 100g (3.5oz) of jam/jelly/preserve of your choice
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
 
@@ -48,12 +48,12 @@ recipe:
 
     **Cookie Filling**
 
-    1. With an electric whisk, whisk the butter, sugar and 40-50g of the jam together.
+    1. With an electric whisk, whisk the butter, sugar and 40-50g of the jam/jelly/preserve together.
     2. Adding more icing sugar if needed.
     3. Clip the end of the piping bag and add a small nozzle to it. Put the mixture into the piping bag.
-    4. Get another piping bag and add the remaining jam to it. (It's ok to just wack the jam onto the cookie instead of using another pipebag)
-    5. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam.
-    6. Then press the biscuit with a star hole on top of cookie you have put filling and jam on.
+    4. Get another piping bag and add the remaining jam/jelly/preserve to it. (It's ok to just wack the jam/jelly/preserve onto the cookie instead of using another pipebag)
+    5. Pipe the filling around the edge of each biscuit (the ones with no hole in the middle). Fill the middle space with jam/jelly/preserve.
+    6. Then press the biscuit with a star hole on top of cookie you have put filling and jam/jelly/preserve on.
 
 ---
 These Christmas Cookies look great and taste great. A little bit of work for something that will honestly be gone in minutes! Put the kettle on these are going to be good.
@@ -64,11 +64,11 @@ Easy to roll and shape with your star cut outs.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_2_scaled.jpg)
 
-The star shape cut out in the middle is going to make these cookies stand out with the jam filling.
+The star shape cut out in the middle is going to make these cookies stand out with the jam/jelly/preserve filling.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_3_scaled.jpg)
 
-You can make them any sizes and just put jam on them and they still taste great!
+You can make them any sizes and just put jam/jelly/preserve on them and they still taste great!
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Jam_Cookies/Image_4_scaled.jpg)
 
