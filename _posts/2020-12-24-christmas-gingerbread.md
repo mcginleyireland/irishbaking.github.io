@@ -75,4 +75,4 @@ Christmas always brings out my creative side.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_6.jpg)
 
-Not every gingerbread has to be perfect. This will be out happy little accident.
+Not every gingerbread has to be perfect. We don't make mistakes, just happy little accidents.
