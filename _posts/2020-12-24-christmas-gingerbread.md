@@ -1,5 +1,5 @@
 ---
-date: 2020-12-21
+date: 2020-12-24
 title: Christmas Gingerbread
 categories:
   - Christmas
@@ -55,7 +55,7 @@ recipe:
 
 
 ---
-I wanted to show that decorating gingerbread men can become a christmas tradition. I don't normally like to take short cuts, but the Choco Writers made life so much easier. Baking can be as hard as you let it be. Take a short cut every now and then.
+I wanted to show that decorating gingerbread men can become a christmas tradition. I don't normally like to take short cuts, but the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_1.jpg)
 
@@ -75,4 +75,4 @@ Christmas always brings out my creative side.
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_6.jpg)
 
-Not everything gingerbread has to be perfect. This will be out happy little accident.
+Not every gingerbread has to be perfect. This will be out happy little accident.
