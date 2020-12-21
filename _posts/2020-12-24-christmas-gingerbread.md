@@ -27,8 +27,8 @@ recipe:
 
     **Decoration**
 
-    * 80g of white Choco Writers ()
-    * 80g of milk Choco Writers ()
+    * 80g of white Choco Writers
+    * 80g of milk Choco Writers
   directions_markdown: |-
     **Gingerbread Man**
 
@@ -55,7 +55,7 @@ recipe:
 
 
 ---
-I wanted to show that decorating gingerbread men can become a christmas tradition. I don't normally like to take short cuts, but the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
+I wanted to show that decorating gingerbread men can become a christmas tradition. I don't normally like to take shortcuts, but the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
 
 ![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_1.jpg)
 
