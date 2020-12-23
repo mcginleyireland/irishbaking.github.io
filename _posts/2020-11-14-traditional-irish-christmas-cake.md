@@ -4,7 +4,7 @@ title: Traditional Irish Christmas Cake
 categories:
   - Christmas
   - Cakes
-featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_12.jpg
 recipe:
   servings: 20 Slices
   prep: 40 minutes
@@ -97,3 +97,19 @@ When it comes out of the oven it's best to pour some more whiskey over it!
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_8.jpg)
 
 The color is just amazing! Very excited for Christmas now!
+
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg)
+
+Then end result.
+
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_10.jpg)
+
+Applied the almond paste.
+
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_11.jpg)
+
+Applied the icing.
+
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_13.jpg)
+
+Added the extra bits that make it colorful.
