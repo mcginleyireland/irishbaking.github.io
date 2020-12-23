@@ -89,7 +89,7 @@ recipe:
     4. If it's too wet you can put in more icing sugar.
     5. Place the dough like mixture onto a flat surface.
     6. Start rolling out the almond paste.
-    7. Measure a round cycle and place that on top of the Christmas Cake.
+    7. Measure a round circle and place that on top of the Christmas Cake.
     8. It's ok if it's too big, you can cut it down.
     9. Roll out more to do the sides.
 
