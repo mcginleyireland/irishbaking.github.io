@@ -33,6 +33,24 @@ recipe:
     * 1 tsp of ground Ginger
     * 1 tsp of ground Cloves
 
+    **Almond Paste**
+
+    * 1kg (36oz) of almond flour
+    * 500g (18oz) of icing sugar
+    * 500g (18oz) of caster sugar
+    * 1 egg
+    * 1/4 tsp of almond extract
+
+    **Icing**
+
+    * 1kg (36oz) of icing sugar
+    * 3-5 egg whites
+    * 1 tsp of glycerine
+
+    **Misc**
+
+    * Marmalade/Jam/Preserve/Jelly
+
   directions_markdown: |-
     **Fruit Mix**
 
@@ -62,6 +80,26 @@ recipe:
     2. When it's out of the oven, pour some more whiskey over it.
     3. I let it cool in the tin over nigth, but you take it out of the tin and let it rest.
     4. The next day wrap it up in parchment paper and tin foil.
+
+    **Almond Paste**
+
+    1. Before starting the almond paste and icing, make sure it's a few days before you want to cut into the cake.
+    2. Secondly, coat the cake in either Marmalade/Jam/Preserve or Jelly, so that the almond paste can stick to the cake.
+    3. For the almond paste, mix all of the ingredients together.
+    4. If it's too wet you can put in more icing sugar.
+    5. Place the dough like mixture onto a flat surface.
+    6. Start rolling out the almond paste.
+    7. Measure a round cycle and place that on top of the Christmas Cake.
+    8. It's ok if it's too big, you can cut it down.
+    9. Roll out more to do the sides.
+
+    **Icing Sugar**
+
+    1. Mix all of the ingredients together.
+    2. If the mixture is too dry I add more egg whites.
+    3. The glycerine will make the icing soft for a very long time. Without it, it will be hard icing.
+    4. Slowly place the icing onto the cake.
+    5. When completly covered, I like to pat it down with my spatula and lift up quickly to get a spikey texture.
 
 ---
 This is one of the Christmas Recipies that has been handed down to me. It has slighly less fruit and mixture, so, it won't be as tall but that just means you can have a second slice with your cup of tea at Chrstmas.
@@ -100,16 +138,16 @@ The color is just amazing! Very excited for Christmas now!
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg)
 
-Then end result.
+Then end result. It still smells so good a day after coming out of the oven.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_10.jpg)
 
-Applied the almond paste.
+Appling the almond paste can be trickey.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_11.jpg)
 
-Applied the icing.
+Applied the icing can be even trickier.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_13.jpg)
 
-Added the extra bits that make it colorful.
+Merry Christmas everyone! It feels so christmasy!
