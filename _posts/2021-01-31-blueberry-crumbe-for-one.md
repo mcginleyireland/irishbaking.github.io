@@ -42,15 +42,15 @@ recipe:
 ---
 I wanted to show that decorating gingerbread men can become a Christmas tradition. Decorating with the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.jpg/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_2.jpg)
 
 Again, really easy to roll out.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.jpg/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_3.jpg)
 
 Cutting into any shapes, they all look amazing.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.jpg/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_4.jpg)
 
 All ready to decorate.
 
