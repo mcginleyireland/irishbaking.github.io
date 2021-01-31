@@ -13,44 +13,40 @@ recipe:
 
     * 100g (5.3oz) of Blueberrys
     * 10g (5.3oz) of brown sugar
-    * 100g (5.3oz) of crumble
+    * 1 tsp of cornstarch (optional)
+    * 1 tsp zest of a lemon (optional)
+    * 40g of flour
+    * 30g white sugar
+    * 30g cold butter
   directions_markdown: |-
-    **Gingerbread Man**
+    **Blueberry Crumble**
 
-    1. Heat the oven to 160°C (320°F). Grease and line a baking tray, or line the baking tray with parchment  paper.
-    2. In a mixing bowl, cream the sugar, butter and treacle.
-    3. Add in the egg.
-    4. Add in the vanilla extract.
-    5. Add in the flour gradually.
-    6. Add in the bread soda. (It's ok to not have this in) (Not needed if using self-raising flour is also good to use)
-    7. Add in the  ginger, cloves, allspice, and cinnamon.
-    8. Divide the dough into 2. Flatten them both into disks and put them in the fridge.
-    9. After an hour you can take one of the disks our.
-    10. On a flat surface, sprinkly out some flour and roll out the dough to the desired shapes.
-    11. When you have them on the baking try then it's time to bake.
+    1. Heat the oven to 200°C (390°F).
+    2. In a mixing bowl add the blueberries.
+    3. Add in the brown sugar. (white sugar is also fine here)
+    4. Add in the cornstarch.
+    5. In a separate bowl, add the flour, white sugar and cold butter.
+    6. Rub the mixute together till you get a breadcrumb texture. Or, pop it into the food processor to mix it well.
+    7. Top the blueberries with created crumble. Don't press down on the crumble, you want some air flowing.
 
     **Bake**
 
-    1. Bake for 8-12 mins at 160°C (320°F).
-    2. Let it cool for 10-20 mins and place it on a wire rack to cool more.
+    1. Bake for 20-35 mins at 200°C (390°F).
 
-    **Decoration**
-
-    1. For decorating the gingerbread, I let my creative side out and had fun with it.
 
 
 ---
-I wanted to show that decorating gingerbread men can become a Christmas tradition. Decorating with the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
+I think in lockdown the hardest thing is to share your baking. So here is a recipe for just one. Blueberry Crubmble. Hope you enjoy.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_2.jpg)
 
-Again, really easy to roll out.
+Little bit of sugar never hurt anyone.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_3.jpg)
 
-Cutting into any shapes, they all look amazing.
+The crumble to lock in that flavour.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_4.jpg)
 
-All ready to decorate.
+If it's seeping out too much in the oven, take it out.
 
