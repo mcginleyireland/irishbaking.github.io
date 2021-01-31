@@ -11,10 +11,10 @@ recipe:
   ingredients_markdown: |-
     **Blueberry Part**
 
-    * 100g (5.3oz) of Blueberrys
-    * 10g (5.3oz) of brown sugar
+    * 100g (3.5oz) of Blueberrys
+    * 10g (0.35oz) of brown sugar
     * 1 tsp of cornstarch (optional)
-    * 1 tsp zest of a lemon (optional)
+    * Zest of a lemon (optional)
 
     **Crumble Part**
 
@@ -33,7 +33,7 @@ recipe:
 
     5. In a separate bowl, add the flour, white sugar and cold butter.
     6. Rub the mixute together till you get a breadcrumb texture. Or, pop it into the food processor to mix it well.
-    7. Top the blueberries with created crumble. Don't press down on the crumble, you want some air flowing.
+    7. Top the blueberries with the created crumble. Don't press down on the crumble, you want some air flowing.
 
     **Bake**
 
