@@ -3,7 +3,7 @@ date: 2021-01-31
 title: Blueberry Crumble For One
 categories:
   - Deserts For One
-featured_image: https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_5.jpg
 recipe:
   servings: 15 Cookies
   prep: 5 minutes
