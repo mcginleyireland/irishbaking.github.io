@@ -42,7 +42,7 @@ recipe:
 
 
 ---
-I think in lockdown the hardest thing is to share your baking. So here is a recipe for just one. Blueberry Crubmble. Hope you enjoy.
+I think in lockdown the hardest thing to do is to share your baking. Which means you eat all of the cake yourself. So, here is a recipe for just one. Blueberry Crumble. Hope you enjoy.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_3.jpg)
 
