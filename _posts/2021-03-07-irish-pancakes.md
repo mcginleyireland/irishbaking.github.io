@@ -18,7 +18,6 @@ recipe:
     **Pancake Frying**
 
     * Butter/Oil
-
   directions_markdown: |-
     **Pancake Batter**
 
