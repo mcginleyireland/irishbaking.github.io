@@ -47,4 +47,3 @@ Waiting for this side to be dry so we can flip it and it not go everwhere.
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_3.jpg)
 
 Savoury or sweet? I always go sweet!
-
