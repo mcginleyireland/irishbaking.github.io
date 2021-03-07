@@ -29,7 +29,7 @@ recipe:
     **Frying the Pancakes**
 
     5. Some people like to fry the pancakes in butter but I like to use Olive Oil. (Probably not the healthiest)
-    6. When  you have lightly greased the frying pan with the oil/butter and it has come to temperature, add some of the pancake batter.
+    6. When  you have lightly greased the frying pan with the butter/oil and it has come to temperature, add some of the pancake batter.
     7. When the top side is no longer wet, flip it over.
 
 ---
