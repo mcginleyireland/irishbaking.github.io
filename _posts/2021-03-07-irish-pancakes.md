@@ -37,7 +37,7 @@ I was a little bit late posting this, but Pancake Tuesday is my favourite day of
 
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_1.jpg)
 
-I think you're meant to leave the batter to for 30 minutes, but I rarely do this! :)
+I think you're meant to leave the batter to rest for 30 minutes, but I rarely do this! :)
 
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_2.jpg)
 
