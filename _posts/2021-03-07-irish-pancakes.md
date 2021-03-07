@@ -17,7 +17,7 @@ recipe:
 
     **Pancake Frying**
 
-    * 1 tsp of Butter/Oil per Pancake
+    * 1 tsp of Butter or Oil per Pancake
   directions_markdown: |-
     **Pancake Batter**
 
