@@ -17,7 +17,7 @@ recipe:
 
     **Pancake Frying**
 
-    * 1 tsp of Butter or Oil per Pancake
+    * 1 tsp of Butter/Oil per Pancake
   directions_markdown: |-
     **Pancake Batter**
 
@@ -31,7 +31,6 @@ recipe:
     5. Some people like to fry the pancakes in butter but I like to use Olive Oil. (Probably not the healthiest)
     6. When  you have lightly greased the frying pan with the oil/butter and it has come to temperature, add some of the pancake batter.
     7. When the top side is no longer wet, flip it over.
-
 
 ---
 I was a little bit late posting this, but Pancake Tuesday is my favourite day of the year. This is the way my Mam makes it and it's such a reminder of my childhood when I make it this way.
