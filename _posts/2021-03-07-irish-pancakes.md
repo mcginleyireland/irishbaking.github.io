@@ -1,5 +1,5 @@
 ---
-date: 2021-01-31
+date: 2021-03-07
 title: Irish Pancakes
 categories:
   - Pancakes
@@ -11,9 +11,15 @@ recipe:
   ingredients_markdown: |-
     **Pancake Batter**
 
-    * 450g (12oz) of Plain Flour
-    * 10g (0.35oz) of brown sugar
+    * 450g (16oz) of Plain Flour
+    * 450-600ml (15-20 fl oz) of milk
     * 3 Eggs
+
+    **Pancake Fryung**
+
+    * Butter or Oil
+
+    * 
 
   directions_markdown: |-
     **Pancake Batter**
@@ -26,7 +32,7 @@ recipe:
     **Frying the Pancakes**
 
     5. Some people like to fry the pancakes in butter but I like to use Olive Oil. (Probably not the healthiest)
-    6. When the oil/butter is hot enouh on the frying pan, add some of the pancake batter.
+    6. When  you have lightly greased the frying pan with the oil/butter and it has come to temperature, add some of the pancake batter.
     7. When the top side is no longer wet, flip it over.
 
 
@@ -35,13 +41,13 @@ I was a little bit late posting this, but Pancake Tuesday is my favourite day of
 
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_1.jpg)
 
-A bit of sugar never hurt!
+I think you're meant to leave the batter to for 30 minutes, but I rarely do this! :)
 
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_2.jpg)
 
-Going to be good!
+Waiting for this side to be dry so we can flip it and it not go everwhere.
 
 ![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_3.jpg)
 
-If it's seeping out too much in the oven, take it out.
+Savoury or sweet? I always go sweet!
 
