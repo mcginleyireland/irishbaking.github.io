@@ -15,11 +15,9 @@ recipe:
     * 450-600ml (15-20 fl oz) of milk
     * 3 Eggs
 
-    **Pancake Fryung**
+    **Pancake Frying**
 
-    * Butter or Oil
-
-    * 
+    * Butter/Oil
 
   directions_markdown: |-
     **Pancake Batter**
