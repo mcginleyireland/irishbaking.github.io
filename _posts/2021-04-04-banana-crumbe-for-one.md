@@ -43,17 +43,17 @@ recipe:
 
 
 ---
-I think in lockdown the hardest thing to do is to share your baking. Which means you eat all of the cake yourself. So, here is a recipe for just one. Banana Crumble. Hope you enjoy.
+Move over banana bread, this is my new favourite banana based baked goods! Just one and you'll be hooked. Hope you enjoy because I can't stop making this.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_2.jpg)
 
-A bit of sugar never hurt!
+Bananas in a crumble? Yes please!
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_3.jpg)
 
-Going to be good!
+Has to be brown sugar for this in my opinion.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_4.jpg)
 
-If it's seeping out too much in the oven, take it out.
+Done in seconds.
 
