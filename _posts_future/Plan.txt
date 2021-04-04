@@ -1,17 +1,19 @@
 - Current:
 Posts: every 2 weeks
 Stores - Nah
-
+Reels - Nah
 
 
 Future - 
 - Option 1:
 Posts: every 2 days
 Stores - Everyday
+Reels - Only when posting a new website post
 
 Option 2:
 Posts: every 2 weeks but posts the Thusday before to show what I have baked.
-
+Stores - Everyday
+Reels - Only when posting a new website post
 
 Questions:
 What will I post?
@@ -20,9 +22,33 @@ What will my stories be about?
 
 
 
-21/03/2021 - Brownies - Desert for two
 03/04/2021 - Banana Crumble - Desert for one
+	Recipe			- Yes
+	Directions		- Yes
+	Photos			- No
+	Photos Desc.	- No
 17/04/2021 - Brownie Cheese Cake - Desert for four
+	Recipe			- Yes
+	Directions		- Yes
+	Photos			- No
+	Photos Desc.	- No
 01/05/2021 - Strawberry Crunble - Desert for one
-15/05/2021 -
-29/05/2021 -
+	Recipe			- Yes
+	Directions		- Yes
+	Photos			- No
+	Photos Desc.	- No
+15/05/2021 - Powdered Sugar Coca Fudge
+	Recipe			- Yes
+	Directions		- Yes
+	Photos			- No
+	Photos Desc.	- No
+29/05/2021 - Raspberryberry Crunble - Desert for one
+	Recipe			- Yes
+	Directions		- Yes
+	Photos			- No
+	Photos Desc.	- No
+13/06/2021 - Raspberryberry Jam
+	Recipe			- No
+	Directions		- No
+	Photos			- No
+	Photos Desc.	- No

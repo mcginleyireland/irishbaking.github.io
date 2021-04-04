@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     **Blueberry Part**
 
-    * 100g (3.5oz) of Blueberrys
+    * 100g (3.5oz) of Blueberries
     * 10g (0.35oz) of brown sugar
     * 1 tsp of cornstarch (optional)
     * Zest of a lemon (optional)
