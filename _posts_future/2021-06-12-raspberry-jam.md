@@ -12,8 +12,8 @@ recipe:
   ingredients_markdown: |-
     **Fudge**
 
-    * 1kg (2.12oz) Raspberries
-    * 1kg (1.76oz) sugar
+    * 1kg (2.12oz) of raspberries
+    * 1kg (1.76oz) of white sugar
     * 1 Lemon Juice
 
   directions_markdown: |-

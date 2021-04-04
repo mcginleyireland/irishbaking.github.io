@@ -11,9 +11,10 @@ recipe:
   ingredients_markdown: |-
     **Banana Part**
 
-    * 100g (3.5oz) of Blueberrys
+    * 100g (3.5oz) of bananas
     * 10g (0.35oz) of brown sugar
     * 1 tsp of cornstarch (optional)
+    * 1 tsp of cinnamon (optional)
     * Zest of a lemon (optional)
 
     **Crumble Part**
