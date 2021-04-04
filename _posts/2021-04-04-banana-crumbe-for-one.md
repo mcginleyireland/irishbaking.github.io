@@ -56,6 +56,3 @@ Going to be good!
 
 If it's seeping out too much in the oven, take it out.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_5.jpg)
-
-I made it again it was that good.
