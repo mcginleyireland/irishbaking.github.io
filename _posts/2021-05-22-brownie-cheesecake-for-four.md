@@ -4,7 +4,7 @@ title: Brownie Cheesecake For Four
 categories:
   - Deserts For Four
   - Brownie Cheesecake
-featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg
 recipe:
   servings: 4 Brownie Cheesecakes
   prep: 20 minutes
@@ -52,6 +52,10 @@ recipe:
 ---
 A!
 
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_1.jpg)
+
+A!
+
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_2.jpg)
 
 A!
@@ -85,9 +89,5 @@ A!
 A!
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg)
-
-A!
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_11.jpg)
 
 A!
