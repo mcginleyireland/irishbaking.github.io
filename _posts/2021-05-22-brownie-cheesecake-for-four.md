@@ -67,3 +67,27 @@ A!
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_5.jpg)
 
 A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_6.jpg)
+
+A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_7.jpg)
+
+A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_8.jpg)
+
+A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_9.jpg)
+
+A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg)
+
+A!
+
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_11.jpg)
+
+A!
