@@ -54,7 +54,7 @@ This is my favourite desert. It combinds two of my favourite deserts. With a sta
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_3.jpg)
 
-More images on the brownies are here: <br> https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/
+More images on the brownies are <a href="https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/">here</a>.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_5.jpg)
 
