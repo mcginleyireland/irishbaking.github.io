@@ -56,26 +56,22 @@ This is my favourite desert. It combinds two of my favourite deserts. With a sta
 
 More images on the brownies are <a href="https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/">here</a>.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_5.jpg)
-
-A!
-
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_6.jpg)
 
-A!
+It's all about that buttery biscuit base!
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_7.jpg)
 
-A!
+Not needed but if I can sneak in chocolate in a recipe I will! Also, will seel in the buttery biscuit base so that no cheese cake will seep into the bottom. 
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_8.jpg)
 
-A!
+It's all coming together.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_9.jpg)
 
-A!
+Letting it rest for the chocolate to set.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg)
 
-A!
+It looks amazing espicially if you make it for a dinner party!
