@@ -1,5 +1,5 @@
 ---
-date: 2021-05-22
+date: 2021-05-23
 title: Brownie Cheesecake For Four
 categories:
   - Deserts For Four
@@ -7,7 +7,7 @@ categories:
 featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg
 recipe:
   servings: 4 Brownie Cheesecakes
-  prep: 20 minutes
+  prep: 30 minutes
   cook: 90 minutes
   ingredients_markdown: |-
     **Brownie Part**
@@ -50,23 +50,11 @@ recipe:
     1. Bake for 20-35 mins at 200°C (390°F).
 
 ---
-A!
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_1.jpg)
-
-A!
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_2.jpg)
-
-A!
+This is my favourite desert. It combinds two of my favourite deserts. With a star dish it makes presentation so easy!
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_3.jpg)
 
-A!
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_4.jpg)
-
-A!
+More images on the brownies are here: <br> https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_5.jpg)
 
