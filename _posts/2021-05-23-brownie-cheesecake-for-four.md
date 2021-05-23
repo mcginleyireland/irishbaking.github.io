@@ -57,10 +57,10 @@ recipe:
 
     **Cheesecake Part**
 
-    1. In a separate bowl, add the cream cheese and icing sugar, vanilla extract and lemon juice.
+    1. In a separate bowl, add the cream cheese, icing sugar, vanilla extract and lemon juice.
     2. Whisk the mixture until smooth.
-    3. Next I popped my mixutre into a piping bag to pipe into the crevices of the dish. Also, a chopstick helped me get into the hidden crevices.
-    4. Once you have all of the mixture used you should have 4 delicious Brownie Cheese Cakes! Exjoy!
+    3. Next I put the mixutre into a piping bag to pipe around the brownie. (A chopstick helped me get into the hidden crevices)
+    4. Once you have all of the mixture used you should have 4 delicious Brownie Cheese Cakes! Enjoy!
 
 ---
 This is my favourite desert. It combinds two of my favourite deserts. With a star dish it makes presentation so easy!
