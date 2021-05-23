@@ -27,9 +27,9 @@ recipe:
 
     **Cheesecake Part**
 
-    * 280g (10oz) of full fat cream cheese
+    * 280g (10oz) of cream cheese
     * 40g (1.4oz) of icing sugar
-    * 110ml (3.87 fl oz) of double cream
+    * 110ml (3.9 fl oz) of double cream
     * 1 tsp of vanilla extract
     * 1 tsp of lemon juice
   directions_markdown: |-
