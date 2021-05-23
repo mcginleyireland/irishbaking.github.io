@@ -8,7 +8,7 @@ featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecak
 recipe:
   servings: 4 Brownie Cheesecakes
   prep: 30 minutes
-  cook: 90 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
     **Brownie Part**
 
@@ -19,11 +19,19 @@ recipe:
     * 10g (0.35oz) cocoa powder
     * 1 large eggs
 
+    **Buttery Biscuit Base Part**
+
+    * 300g Digestive Biscuits
+    * 150g butter
+    * 50g chocolate
+
     **Cheesecake Part**
 
-    * 40g of flour
-    * 30g white sugar
-    * 30g cold butter
+    * 750g full fat cream cheese
+    * 100g icing sugar
+    * 300ml double cream
+    * 1 tbsp vanilla extract
+    * 1 tbsp lemon juice
   directions_markdown: |-
     **Brownie Part**
 
@@ -39,22 +47,23 @@ recipe:
     1. Bake for 20-30 mins at 180°C (360°F).
     2. Once out of the oven, leave in the ramekin until cooled. (Believe me... it will fall apart!)
 
+    **Buttery Biscuit Base Part**
+
+    1. Crush up the biscuits in a food processor or by hand.
+    2. Add in melted butter. (add more if needed)
+    3. When mixed well add the mixture to the containers and flatten down.
+    4. (Optional) Top this melted chocolate. (Melt in microwave or by a bain marie)
+    5. Let the chocolate set slightly and add the baked and cooled brownie on top.
+
     **Cheesecake Part**
 
-    5. In a separate bowl, add the flour, white sugar and cold butter.
-    6. Rub the mixute together till you get a breadcrumb texture. Or, pop it into the food processor to mix it well.
-    7. Top the bananas with the created crumble. Don't press down on the crumble, you want some air flowing.
-
-    **Cheesecake Part - Bake**
-
-    1. Bake for 20-35 mins at 200°C (390°F).
+    1. In a separate bowl, add the cream cheese and icing sugar, vanilla extract and lemon juice.
+    2. Whisk the mixture until smooth.
+    3. Next I popped my mixutre into a piping bag to pipe into the crevices of the dish. Also, a chopstick helped me get into the hidden crevices.
+    4. Once you have all of the mixture used you should have 4 delicious Brownie Cheese Cakes! Exjoy!
 
 ---
 This is my favourite desert. It combinds two of my favourite deserts. With a star dish it makes presentation so easy!
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_3.jpg)
-
-More images on the brownies are <a href="https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/">here</a>.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_6.jpg)
 
@@ -66,7 +75,7 @@ Not needed but if I can sneak in chocolate in a recipe I will! Also, will seel i
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_8.jpg)
 
-It's all coming together.
+It's all coming together. <br> More images on the brownies are <a href="https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/">here</a>.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_9.jpg)
 
