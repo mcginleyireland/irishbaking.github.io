@@ -12,26 +12,26 @@ recipe:
   ingredients_markdown: |-
     **Brownie Part**
 
-    * 60g (2.12oz) caster sugar
-    * 50g (1.76oz) unsalted butter
-    * 50g (1.76oz) dark chocolate
-    * 20g (0.7oz) plain flour
-    * 10g (0.35oz) cocoa powder
+    * 60g (2.12oz) of caster sugar
+    * 50g (1.76oz) of unsalted butter
+    * 50g (1.76oz) of dark chocolate
+    * 20g (0.7oz) of plain flour
+    * 10g (0.35oz) of cocoa powder
     * 1 large eggs
 
     **Buttery Biscuit Base Part**
 
-    * 300g Digestive Biscuits
-    * 150g butter
-    * 50g chocolate
+    * 300g (10.6oz) of digestive biscuits
+    * 150g (5.3oz) of butter
+    * 50g (1.8oz) of chocolate
 
     **Cheesecake Part**
 
-    * 750g full fat cream cheese
-    * 100g icing sugar
-    * 300ml double cream
-    * 1 tbsp vanilla extract
-    * 1 tbsp lemon juice
+    * 280g (10oz) of full fat cream cheese
+    * 40g (1.4oz) of icing sugar
+    * 110ml (3.87 fl oz) of double cream
+    * 1 tsp of vanilla extract
+    * 1 tsp of lemon juice
   directions_markdown: |-
     **Brownie Part**
 

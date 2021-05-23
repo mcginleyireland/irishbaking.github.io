@@ -18,9 +18,9 @@ recipe:
 
     **Crumble Part**
 
-    * 40g of flour
-    * 30g white sugar
-    * 30g cold butter
+    * 40g (1.4oz) of flour
+    * 30g (1.05oz) of white sugar
+    * 30g (1.05oz) of cold butter
   directions_markdown: |-
     **Blueberry Part**
 
