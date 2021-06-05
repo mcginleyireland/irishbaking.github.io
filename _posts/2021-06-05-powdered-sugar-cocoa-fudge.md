@@ -6,7 +6,7 @@ categories:
   - Brownie Cheesecake
 featured_image: https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_1.jpg
 recipe:
-  servings: 4 Brownie Cheesecakes
+  servings: 24 Pieces of Fudge
   prep: 15 minutes
   cook: 90 minutes
   ingredients_markdown: |-
@@ -33,7 +33,7 @@ recipe:
     9. Let it cool more and then place it on a wire rack.
 
 ---
-A!
+Evaporated Milk on it's own is so sweet, add some butter and powdered sugar and you've got a treat for a picnic!
 
 ![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_2.jpg)
 
