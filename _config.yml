@@ -3,7 +3,7 @@
 
 title: Irish Baking
 url: "https://irishbaking.ie/"
-baseurl: "irishbaking.github.io"
+baseurl:
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
