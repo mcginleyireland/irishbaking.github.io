@@ -1,5 +1,5 @@
 ---
-date: 2021-06-05
+date: 2021-06-12
 title: Powdered Sugar Cocoa Fudge
 categories:
   - Deserts For Four
@@ -37,16 +37,16 @@ Evaporated Milk on it's own is so sweet, add some butter and powdered sugar and 
 
 ![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_2.jpg)
 
-A!
+If it's a bit runny then I added more icing sugar.
 
 ![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_3.jpg)
 
-A!
+Covered it with parchment paper so i could squish it to size.
 
 ![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_4.jpg)
 
-A!
+Cut it to size, but you can cut it any size and shape.
 
 ![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_5.jpg)
 
-A!
+These kept dispearing when I was trying to take photos of it.
