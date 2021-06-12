@@ -57,6 +57,12 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+  -
+    scope:
+      path: ".well-known/brave-rewards-verification.txt"
+    values:
+      layout: "default"
+      push_sidebar_down: true
 
 plugins:
   - jekyll-sitemap
