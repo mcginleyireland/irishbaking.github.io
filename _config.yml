@@ -27,7 +27,7 @@ timezone: Etc/UTC
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: pretty
+permalink: none
 
 defaults:
   -
@@ -57,12 +57,6 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
-  -
-    scope:
-      path: ".well-known/brave-rewards-verification.txt"
-    values:
-      layout: "default"
-      push_sidebar_down: true
 
 plugins:
   - jekyll-sitemap
@@ -71,7 +65,7 @@ plugins:
   - jekyll-paginate
 
 include:
-  - .well-known/brave-rewards-verification.txt
+  - .well-known
 
 exclude:
   - Gemfile
