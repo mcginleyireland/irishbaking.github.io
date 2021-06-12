@@ -27,7 +27,7 @@ timezone: Etc/UTC
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: none
+permalink: "/:title/"
 
 defaults:
   -
