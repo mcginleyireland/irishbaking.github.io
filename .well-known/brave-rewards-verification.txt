@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: irishbaking.ie
+Token: ecf6f026e4f9b2e4114f531b83f1eb96822253cf546906053ba20ca940a7519c
