@@ -70,6 +70,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+include:
+  - .well-known/brave-rewards-verification.txt
+
 exclude:
   - Gemfile
   - Gemfile.lock
