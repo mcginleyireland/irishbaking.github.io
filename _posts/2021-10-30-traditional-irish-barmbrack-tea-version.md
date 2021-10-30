@@ -11,15 +11,15 @@ recipe:
   cook: 60 minutes
   ingredients_markdown: |-
     **Fruit Mix**
-    * 375g (oz) of fruit mix
-    * 200g (oz) of mixed peal (Optional)
-    * 300ml (oz) of cold black tea
-    * 70ml (oz) of whiskey (Optional)
+    * 375g (13.2oz) of fruit mix
+    * 200g (7oz) of mixed peal (Optional)
+    * 300ml (10.55 fl/oz) of cold black tea
+    * 70ml (2.45 fl/oz) of whiskey (Optional)
 
     **Cake**
 
-    * 250g (oz) of self raising flour
-    * 125g (oz) brown sugar
+    * 250g (8.8oz) of self raising flour
+    * 125g (4.4oz) brown sugar
     * 1 tsp of mixed all spice
     * 1 large eggs
 
@@ -39,14 +39,14 @@ recipe:
     4. Sift in the flour slowly.
     5. Add in the All Spice.
     6. When combined add the mixture to a greased and lined loaf tin.
-    7. Traditionaly you can items wrapped in greaseproof paper like a ring.
+    7. Traditionaly you can wrap items in parchment paper like a ring to suggest you'll get married in the year, a coin to suggest wealth, a rag to suggest poverty or a pea suggest you won't marry.
 
     **Bake**
 
     1. Bake for 60 mins at 170°C (340°F).
     2. When done leave it in the tin for about 15 minutes.
     3. Then leave it on the wire rack to cool down.
-    4. For best results, I'd recommend to wrap it up with greaseproof paper and then tin foil and leave it for 2 days before digging into it.
+    4. For best results, I'd recommend to wrap it up with parchment paper and then tin foil and leave it for 2 days before digging into it.
 
 
 
@@ -79,7 +79,7 @@ When mixed well we can add it to the tin.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_8.jpg)
 
-I normally slam the tin a few times so that there's no air bubbles stored below.
+I normally slam the tin a few times so that there's no air bubbles stored below. At this stage you can wrap in parchment paper, a ring, a coin or evern a rag. These symbolise a wedding, wealth or poverty.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_9.jpg)
 
