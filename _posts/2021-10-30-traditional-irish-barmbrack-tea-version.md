@@ -92,7 +92,3 @@ ToDo
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_11.jpg)
 
 ToDo
-
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_12.jpg)
-
-ToDo
