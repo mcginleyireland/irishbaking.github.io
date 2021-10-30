@@ -83,11 +83,11 @@ I normally slam the tin a few times so that there's no air bubbles stored below.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_9.jpg)
 
-After 60 minuets you can leabe it in the tin for 15 minutes. Leave it on a wire rack after that.
+After 60 minuets you can leave it in the tin for about 15 minutes and then leave it on a wire rack after that.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_10.jpg)
 
-There's a really great color off the tea version of Barmbrack.
+There's a really great color from the tea version of Barmbrack.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_11.jpg)
 
