@@ -51,7 +51,7 @@ recipe:
 
 
 ---
-During Halloween there are two types of Barmbrack that are made. There is this one which is more fruit and more tea based. The other is less fruit and you add yeast to the mix. Both are great and we have a tradition of adding objects to the cake which I will get into below.
+During Halloween there are two types of Barmbrack that are made. There is this one which has more fruit and more tea based. The other has less fruit and you add yeast to the mix. Both are great and we have a tradition of adding objects to the cake which I will get into below.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_2.jpg)
 
