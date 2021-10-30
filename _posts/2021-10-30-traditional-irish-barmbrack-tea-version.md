@@ -4,7 +4,7 @@ title: Traditional Irish Barmbrack (Tea Version)
 categories:
   - Cakes
   - Halloween
-featured_image: https://irishbaking.ie/images/Cake/Traditional_Irish_Barmbrack_Tea_Version/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_1.jpg
 recipe:
   servings: 10 Slices
   prep: 60 minutes
@@ -53,18 +53,18 @@ recipe:
 ---
 ToDo
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Strawberry_Crumble/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_2.jpg)
 
 ToDo
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Strawberry_Crumble/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_3.jpg)
 
 ToDo
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Strawberry_Crumble/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_4.jpg)
 
 ToDo
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Strawberry_Crumble/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_5.jpg)
 
 ToDo
