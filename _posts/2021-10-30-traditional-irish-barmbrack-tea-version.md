@@ -51,44 +51,44 @@ recipe:
 
 
 ---
-ToDo
+During Halloween there are two types of Barmbrack that are made. There is this one which is more fruit and more tea based. The other is less fruit and you add yeast to the mix. Both are great and we have a tradition of adding objects to the cake which I will get into below.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_2.jpg)
 
-ToDo
+Brew the tea and let it cool down. We don't want the raisins to plump up too fast.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_3.jpg)
 
-ToDo
+When the tea is cool add it into your fruit mix and mixed peal. I do reccommend adding some whiskey.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_4.jpg)
 
-ToDo
+The next morning you add in the sugar and egg.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_5.jpg)
 
-ToDo
+You'll see the mixture is still pretty wet at this stage.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_6.jpg)
 
-ToDo
+Add in the flour and your spices.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_7.jpg)
 
-ToDo
+When mixed well we can add it to the tin.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_8.jpg)
 
-ToDo
+I normally slam the tin a few times so that there's no air bubbles stored below.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_9.jpg)
 
-ToDo
+After 60 minuets you can leabe it in the tin for 15 minutes. Leave it on a wire rack after that.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_10.jpg)
 
-ToDo
+There's a really great color off the tea version of Barmbrack.
 
 ![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_11.jpg)
 
-ToDo
+Might be even the tastier of the two. Make tea and put on some butter.
