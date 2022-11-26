@@ -153,11 +153,3 @@ This just looks amazing. Put them on the tree or by the window. People will be a
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_25.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_26.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
