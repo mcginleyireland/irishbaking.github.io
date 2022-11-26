@@ -4,7 +4,7 @@ title: Christmas Cookie Boxs
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_9.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -53,35 +53,51 @@ recipe:
 ---
 These Christmas Cookies will give a wow factor at anyones window. The most stylish cookie I've ever made.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.jpg)
 
 Easy to roll and shape with your star cut outs.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_2.jpg)
 
 The star shape cut out in the middle is going to make these amazing stained glass affect.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_3.jpg)
 
 This was a failure, I added the balls at the start and it seemed to gel into the cookie. 
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_4.jpg)
 
 Putting the balls in 5 minutes before the end.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_5.jpg)
 
 Putting the balls in 3 minutes before the end.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_6.jpg)
 
 Putting the balls in 5 minutes before the end didn't work out as well.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_7.jpg)
 
 Putting the balls in 3 minutes before the end worked out way better.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Box_Cookies/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_8.jpg)
+
+This just looks amazing. Put them on the tree or by the window. People will be amazed.
+
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.jpg)
+
+This just looks amazing. Put them on the tree or by the window. People will be amazed.
+
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_10.jpg)
+
+This just looks amazing. Put them on the tree or by the window. People will be amazed.
+
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_11.jpg)
+
+This just looks amazing. Put them on the tree or by the window. People will be amazed.
+
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_12.jpg)
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
