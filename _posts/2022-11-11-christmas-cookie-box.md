@@ -1,6 +1,6 @@
 ---
 date: 2022-11-11
-title: Christmas Cookie Boxs
+title: Christmas Cookie Box
 categories:
   - Christmas
   - Cookies
