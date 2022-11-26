@@ -4,7 +4,7 @@ title: Christmas Cookie Box
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_18.jpg
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
