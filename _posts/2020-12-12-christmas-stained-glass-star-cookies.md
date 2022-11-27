@@ -39,15 +39,15 @@ recipe:
     2. Flour your counter and rolling pin. Roll out the dough. You'll want it to be about 2mm thick.
     3. Use a star shape cookie cutter to cut out the star shapes and have star shaped holes in the middle.
     4. With a staw, pierce a hole in one of the stars, so that you can put string through it later.
-    4. Then transfer to a baking tray.
+    5. Then transfer to a baking tray.
 
     **Bake**
 
     1. Crush up your Jolly Ranchers or Lolly Pops if you're not going to be using Isomalt.
     2. Don't place the Isomalt, Jolly Ranchers or Lolly Pops in the cookie holes just yet.
-    3. Bake for cookies for 7-12 mins at 160°C (320°F). (Keep an eye on them to get make sure they're all the same color)
+    3. Bake for cookies for 7-12 mins at 160°C (320°F).
     4. Take out the cookies and add the Isomalt, Jolly Ranchers or Lolly Pops in the center of the cookies.
-    5. Bake for another 3 minutes or less at the same temperature.	
+    5. Bake for another 5 minutes or less at the same temperature. (Keep an eye on them to get make sure they're all the same color)
     6. Let them cool for 5-10 mins and place them on a wire rack to cool more. The Isomalt will be difficult to remove from the baking tray straight away.
 
 ---

@@ -12,15 +12,20 @@ recipe:
   ingredients_markdown: |-
     **Cookie Shortbread**
 
-    * 300g (10.5oz) of plain flour
-    * 200g (7oz) of unsalted butter
-    * 100g (3.5oz) of icing sugar
-    * 1 tbs of vanilla extract
-    * 1 egg yoke
+    * 600g (21.2oz) of plain flour
+    * 400g (14.1oz) of unsalted butter
+    * 200g (7oz) of icing sugar
+    * 2 tbs of vanilla extract
+    * 2 egg yoke
 
     **Cookie Stained Glass**
 
-    * 50g of Isomalt (or Jolly Ranchers or Lolly Pops) (Optional)
+    * 50g (1.8oz) of Isomalt (or Jolly Ranchers or Lolly Pops) (Optional)
+
+    **Construction**
+
+    * 200g (7oz) of Buttercreat (Replacement: Melted Chocolate)
+    * 200g (7oz) of Sweets (Candy)
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
 
@@ -37,21 +42,29 @@ recipe:
 
     1. Take the dough out of the fridge and leave the dough out for a minimum of 15 mins.
     2. Flour your counter and rolling pin. Roll out the dough. You'll want it to be about 2mm thick.
-    3. Use a star shape cookie cutter to cut out the star shapes and have star shaped holes in the middle.
-    4. With a staw, pierce a hole in one of the stars, so that you can put string through it later.
+    3. Use a square shape cookie cutter to cut out the square shapes and have shapes holes in the middle.
     4. Then transfer to a baking tray.
 
     **Bake**
 
-    1. Crush up your Jolly Ranchers or Lolly Pops if you're not going to be using Isomalt.
-    2. Don't place the Isomalt, Jolly Ranchers or Lolly Pops in the cookie holes just yet.
-    3. Bake for cookies for 7-12 mins at 160°C (320°F). (Keep an eye on them to get make sure they're all the same color)
-    4. Take out the cookies and add the Isomalt, Jolly Ranchers or Lolly Pops in the center of the cookies.
-    5. Bake for another 3 minutes or less at the same temperature.	
+    1. (Optional) Crush up your Jolly Ranchers or Lolly Pops if you're not going to be using Isomalt.
+    2. (Optional) Don't place the Isomalt, Jolly Ranchers or Lolly Pops in the cookie holes just yet.
+    3. Bake for cookies for 7-12 mins at 160°C (320°F).
+    4. If using the Isomalt, take out the cookies and add the Isomalt, Jolly Ranchers or Lolly Pops in the center of the cookies. (Remember we need empty center ones to make the box)
+    5. Continue baking for another 5 minutes or less at the same temperature. (Keep an eye on them to get make sure they're all the same color)
     6. Let them cool for 5-10 mins and place them on a wire rack to cool more. The Isomalt will be difficult to remove from the baking tray straight away.
 
+    **Construction**
+
+    1. When the cookies are cooled down you can now add buttercream or melted chocolate to make the box.
+    2. 
+    3. 
+    4. 
+    5. 
+    6. 
+
 ---
-These Christmas Cookie Boxes are the best way to share a secret suprise in them. I put in sweets but you could put in an engagement ring!
+These Christmas Cookie Boxes are the best way to share a secret suprise in them. I put in sweets but you could put in anything to them, even an engagement ring!
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.jpg)
 
@@ -114,6 +127,10 @@ You don't even need to finish it, you can decorate it and make it a chimney.
 You can decorate the top of the box any way you want.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16.jpg)
+
+The more color the better. I put white chocolate on here. Yum!
+
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_17.jpg)
 
 The more color the better. I put white chocolate on here. Yum!
 
