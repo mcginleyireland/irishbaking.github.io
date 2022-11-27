@@ -10,10 +10,10 @@ layout: default
 	<div class="recipe-body">
 		{{ content }}
 	</div>
-	<div style="height: 60px;">
+	<div id="recipe" style="height: 60px;">
 		
 	</div>
-	<ul id="recipe" class="recipe-overview">
+	<ul id="edited_recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
