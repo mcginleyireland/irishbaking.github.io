@@ -55,7 +55,7 @@ These Christmas Cookie Boxes are the best way to share a secret suprise in them.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.jpg)
 
-Roll out and shape your cookie box with your box cut outs.
+Roll out and shape your cookie box with your square shaped cut outs.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_2.jpg)
 
@@ -63,7 +63,7 @@ It'll be a bit messy but worth it.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_3.jpg)
 
-Add the Isomalt balls in after around half the baking time, so around 6 minutes. Remember the Isomalt is optional. You can still make beautiful Cookie Boxes without it. 
+Remember the Isomalt is optional. You can still make beautiful Cookie Boxes without it. 
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_4.jpg)
 
@@ -71,31 +71,31 @@ These will act as a lid for the boxes.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_5.jpg)
 
-What it should look like after the oven.
+Once cooled down it's time to start assembling.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_6.jpg)
 
-Once cooled down it's time to start assembling.
+I used buttercream but you could use anything, even chocolate.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_7.jpg)
 
-I used buttercream but you could use anything, even chocolate.
+These are my favourite sweets. Perfect for a surprise.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_8.jpg)
 
-These are my favourite sweets. Perfect for a surprise.
+The best part is you can put any sweets in the box.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.jpg)
 
-Put them in the box and add a lid for the Cookie Box.
+Any sugary sweet will do. Yum!
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_10.jpg)
 
-The best part is you can put any sweets in the box.
+When they're all finished you can decorate the outside. I added bows.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_11.jpg)
 
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
+Extra details from the shop really make it Christmasy.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_12.jpg)
 
@@ -114,22 +114,6 @@ This just looks amazing. Put them on the tree or by the window. People will be a
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_17.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_18.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_19.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_20.jpg)
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
