@@ -20,7 +20,7 @@ recipe:
 
     **Cookie Stained Glass**
 
-    * 50g of Isomalt (or Jolly Ranchers or Lolly Pops)
+    * 50g of Isomalt (or Jolly Ranchers or Lolly Pops) (Optional)
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
 
@@ -55,43 +55,43 @@ These Christmas Cookie Boxes are the best way to share a secret suprise in them.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.jpg)
 
-Easy to roll and shape with your star cut outs.
+Roll out and shape your cookie box with your box cut outs.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_2.jpg)
 
-The star shape cut out in the middle is going to make these amazing stained glass affect.
+It'll be a bit messy but worth it.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_3.jpg)
 
-This was a failure, I added the balls at the start and it seemed to gel into the cookie. 
+Add the Isomalt balls in after around half the baking time, so around 6 minutes. Remember the Isomalt is optional. You can still make beautiful Cookie Boxes without it. 
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_4.jpg)
 
-Putting the balls in 5 minutes before the end.
+These will act as a lid for the boxes.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_5.jpg)
 
-Putting the balls in 3 minutes before the end.
+What it should look like after the oven.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_6.jpg)
 
-Putting the balls in 5 minutes before the end didn't work out as well.
+Once cooled down it's time to start assembling.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_7.jpg)
 
-Putting the balls in 3 minutes before the end worked out way better.
+I used buttercream but you could use anything, even chocolate.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_8.jpg)
 
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
+These are my favourite sweets. Perfect for a surprise.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.jpg)
 
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
+Put them in the box and add a lid for the Cookie Box.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_10.jpg)
 
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
+The best part is you can put any sweets in the box.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_11.jpg)
 
