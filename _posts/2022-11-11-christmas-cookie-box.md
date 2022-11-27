@@ -4,10 +4,10 @@ title: Christmas Cookie Box
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_18.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_14.jpg
 recipe:
-  servings: 15 Cookies
-  prep: 40 minutes
+  servings: 5 Cookie Boxes
+  prep: 120 minutes
   cook: 30 minutes
   ingredients_markdown: |-
     **Cookie Shortbread**
@@ -51,7 +51,7 @@ recipe:
     6. Let them cool for 5-10 mins and place them on a wire rack to cool more. The Isomalt will be difficult to remove from the baking tray straight away.
 
 ---
-These Christmas Cookies will give a wow factor at anyones window. The most stylish cookie I've ever made.
+These Christmas Cookie Boxes are the best way to share a secret suprise in them. I put in sweets but you could put in an engagement ring!
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.jpg)
 
@@ -130,10 +130,6 @@ This just looks amazing. Put them on the tree or by the window. People will be a
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_20.jpg)
-
-This just looks amazing. Put them on the tree or by the window. People will be amazed.
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_21.jpg)
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 
