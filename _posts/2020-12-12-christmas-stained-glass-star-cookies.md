@@ -44,9 +44,9 @@ recipe:
     **Bake**
 
     1. Crush up your Jolly Ranchers or Lolly Pops if you're not going to be using Isomalt.
-    2. Don't place the Isomalt, Jolly Ranchers or Lolly Pops in the cookie holes just yet.
+    2. Don't place the Isomalt in the cookie holes just yet, we will half bake the cookie first.
     3. Bake for cookies for 7-12 mins at 160°C (320°F).
-    4. Take out the cookies and add the Isomalt, Jolly Ranchers or Lolly Pops in the center of the cookies.
+    4. Take out the cookies and add the Isomalt in the center of the cookies.
     5. Bake for another 5 minutes or less at the same temperature. (Keep an eye on them to get make sure they're all the same color)
     6. Let them cool for 5-10 mins and place them on a wire rack to cool more. The Isomalt will be difficult to remove from the baking tray straight away.
 
