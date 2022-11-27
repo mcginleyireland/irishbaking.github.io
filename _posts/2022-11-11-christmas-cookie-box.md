@@ -120,13 +120,13 @@ Even without the stained glass it looks great.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_14.jpg)
 
-You don't even need to finish it, you can decorate it and make it a chimney.
+Even without the stained glass it looks great.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_15.jpg)
 
-You can decorate the top of the box any way you want.
+Even without the stained glass it looks great.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16.jpg)
 
-The more color the better. I put white chocolate on here. Yum!
+Even without the stained glass it looks great.
 
