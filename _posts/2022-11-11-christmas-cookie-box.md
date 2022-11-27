@@ -16,7 +16,7 @@ recipe:
     * 400g (14.1oz) of unsalted butter
     * 200g (7oz) of icing sugar
     * 2 tbs of vanilla extract
-    * 2 egg yoke
+    * 2 egg yokes
 
     **Cookie Stained Glass**
 
