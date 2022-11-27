@@ -24,7 +24,7 @@ recipe:
 
     **Construction**
 
-    * 200g (7oz) of Buttercreat (Replacement: Melted Chocolate)
+    * 200g (7oz) of Buttercream (Replacement: Melted Chocolate)
     * 200g (7oz) of Sweets (Candy)
   directions_markdown: |-
     **Cookie Shortbread Pastry - Part 1**
@@ -127,10 +127,6 @@ You don't even need to finish it, you can decorate it and make it a chimney.
 You can decorate the top of the box any way you want.
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16.jpg)
-
-The more color the better. I put white chocolate on here. Yum!
-
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_17.jpg)
 
 The more color the better. I put white chocolate on here. Yum!
 
