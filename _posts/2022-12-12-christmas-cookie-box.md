@@ -123,7 +123,7 @@ Jellys rattle less, it will surely be a good surprise. (Don't call me Shirley)
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_13_scaled.jpg)
 
-I added a ribbon around the Cookie Boxes to add a more sense of occasion. Merry Christmas.
+Finally I tied a ribbon around the Cookie Boxes to add a sense of occasion. Merry Christmas!
 
 ![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_14_scaled.jpg)
 
