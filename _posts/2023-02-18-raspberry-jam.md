@@ -5,7 +5,7 @@ categories:
   - Jam
 featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1.jpg
 recipe:
-  servings: 4 Brownie Cheesecakes
+  servings: 4 Jars of Jam
   prep: 15 minutes
   cook: 90 minutes
   ingredients_markdown: |-
@@ -31,20 +31,28 @@ recipe:
     6. If you see no wrinkles then boil for another 2 minutes, check again on the plate. Repeat untill you see wrinkles in the jam after smudging.
 
 ---
-Every wanted to make your own jam?
+Every wanted to make your own jam? Less chemicals and maybe less sugar if you desire.
 
 ![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_2.jpg)
 
-A bit of sugar never hurt!
+Try not to eat them all before putting them in the pot.
 
 ![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_3.jpg)
 
-Going to be good!
+Adding the naughty sugar.
 
 ![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_4.jpg)
 
-If it's seeping out too much in the oven, take it out.
+While boiling it smells so good.
 
 ![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_5.jpg)
 
-I made it again it was that good.
+A chilled plate to test if the jam is ready to be put in a jar.
+
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_6.jpg)
+
+This is the wrinkles you are looking for.
+
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_5.jpg)
+
+This is the wrikles zoomed in.
