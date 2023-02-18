@@ -1,9 +1,8 @@
 ---
 date: 2023-02-18
-title: Powdered Sugar Cocoa Fudge
+title: Raspberry Jam
 categories:
-  - Deserts For Four
-  - Brownie Cheesecake
+  - Jam
 featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1.jpg
 recipe:
   servings: 4 Brownie Cheesecakes
@@ -20,7 +19,7 @@ recipe:
     **Preperation**
 
     1. Put a few plates in the fridge. We will be using a chilled plate to test if the jam is ready to be bottled.
-    2. Sterilise the jars that you are going to be putting the jam in.
+    2. Sterilize the jars that you are going to be putting the jam in.
 
     **Raspberry Jam**
 
