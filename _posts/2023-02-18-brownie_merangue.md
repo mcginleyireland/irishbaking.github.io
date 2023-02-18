@@ -65,40 +65,25 @@ If it's seeping out too much in the oven, take it out.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_5.jpg)
 
-I made it again it was that good.
+The brownies need to rest and be cooled before the meringue goes on top.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_6.jpg)
 
-I made it again it was that good.
+Have the egg whites and suger in a bowl and heat it up in a bain-marie.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_7.jpg)
 
-I made it again it was that good.
+Heat and mix the egg whites and sugar.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_8.jpg)
 
-I made it again it was that good.
+Whisk the mixture till you get stiff peaks.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_9.jpg)
 
-I made it again it was that good.
+This turned out so well.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_10.jpg)
 
-I made it again it was that good.
+You can put on a second brownie on top if you'd like to have a sharing desert as a couple.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_11.jpg)
-
-I made it again it was that good.
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_12.jpg)
-
-I made it again it was that good.
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_13.jpg)
-
-I made it again it was that good.
-
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_14.jpg)
-
-I made it again it was that good.
