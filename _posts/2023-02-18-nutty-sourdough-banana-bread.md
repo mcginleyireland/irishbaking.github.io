@@ -1,15 +1,15 @@
 ---
 date: 2023-02-18
-title: Fruity Sourdough Banana Bread
+title: Nutty Sourdough Banana Bread
 categories:
   - Banana Breads
-featured_image: https://irishbaking.ie/images/Banana_Breads/Fruity_Sourdough_Banana_Bread/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Banana_Breads/Nutty_Sourdough_Banana_Bread/Image_1.jpg
 recipe:
   servings: 12 Slices
   prep: 15 minutes
   cook: 45  minutes
   ingredients_markdown: |-
-    **Fruity Sourdough Bread**
+    **Nutty Sourdough Banana Bread**
 
     * 200g (7oz) of self-rising  flour
     * 200g (7oz) of brown sugar
@@ -22,7 +22,7 @@ recipe:
     * 2 eggs
 
   directions_markdown: |-
-    **Plain Sourdough Banana Bread**
+    **Nutty Sourdough Banana Bread**
 
     1. Mash the bananas in a big bowl. Add the sugar, and vanilla extract. Keep mixing if you do not want chunky bananas bits in places of the banana bread.
     2. Mix in the eggs one at a time.
@@ -40,11 +40,11 @@ recipe:
 ---
 Banana Bread, Sourdough and fruit, an execelent combination.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Fruity_Sourdough_Banana_Bread/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Nutty_Sourdough_Banana_Bread/Image_2.jpg)
 
 Really liked the combo of the banana bread and the sourdough. Smells so good.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Fruity_Sourdough_Banana_Bread/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Nutty_Sourdough_Banana_Bread/Image_3.jpg)
 
 Easy to slice and hard to stop :D!
 

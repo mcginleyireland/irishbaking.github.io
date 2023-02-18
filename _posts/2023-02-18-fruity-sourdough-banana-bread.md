@@ -9,7 +9,7 @@ recipe:
   prep: 15 minutes
   cook: 45  minutes
   ingredients_markdown: |-
-    **Fruity Sourdough Bread**
+    **Fruity Sourdough Banana Bread**
 
     * 200g (7oz) of self-rising  flour
     * 200g (7oz) of brown sugar
@@ -22,7 +22,7 @@ recipe:
     * 2 eggs
 
   directions_markdown: |-
-    **Plain Sourdough Banana Bread**
+    **Fruity Sourdough Banana Bread**
 
     1. Mash the bananas in a big bowl. Add the sugar, and vanilla extract. Keep mixing if you do not want chunky bananas bits in places of the banana bread.
     2. Mix in the eggs one at a time.
