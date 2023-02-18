@@ -62,28 +62,31 @@ recipe:
     4. I also placed a tray under the pie incase my oven was too hot and more of the juices came out.
 
 ---
-One of my favourite things to do in the summer is to make pie from fresh ingredients. Something warm to eat with a nice cup of tea.
+Summer fruit, in a tart. What more would you want? I really loved making this.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_2.jpg)
+
+The base of the tart. So much potential from just baking to this point.
+
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_3.jpg)
 
 Try not to eat all of the strawberries before putting them into the pie.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_4.jpg)
 
-Once the sugar and cornstarch is added along with the topped pastry you're ready to egg wash the top of your pie.
-BTW those pie holes are very very important. Your sugar and flour won't mix as well with the berries without them.
+Added the sugar and cornstarch.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_5.jpg)
 
-You can add extra flavour with berries.
+Added more strawberries for good luck.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.jpg)
 
-You can add extra flavour with berries.
+Added the top of the tart to sceal in the flavour.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.jpg)
 
-You can add extra flavour with berries.
+The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.jpg)
 
