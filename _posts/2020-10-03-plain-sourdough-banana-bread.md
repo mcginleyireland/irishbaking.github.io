@@ -28,7 +28,7 @@ recipe:
     3. Add the sourdough starter.
     4. Sift in the flour slowly while mixing.
     5. Add in the salt.
-    6. Add in the milk and oil. 
+    6. Add in the milk and oil.
     7. Pour the mixture into your baking tin (Which is greased with butter or lined with parchment paper)
 
     **Bake**

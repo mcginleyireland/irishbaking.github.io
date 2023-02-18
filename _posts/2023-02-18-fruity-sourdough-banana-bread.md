@@ -14,6 +14,8 @@ recipe:
     * 200g (7oz) of self-rising  flour
     * 200g (7oz) of brown sugar
     * 200g (7oz) overripe bananas
+    * 100g (3.5oz) raisings
+    * 25g (0.9oz) cherries
     * 100g (3.5oz) of sourdough starter
     * 1.5 tsp of vanilla extract
     * 0.25 tsp salt
@@ -28,9 +30,10 @@ recipe:
     2. Mix in the eggs one at a time.
     3. Add the sourdough starter.
     4. Sift in the flour slowly while mixing.
-    5. Add in the salt.
-    6. Add in the milk and oil. 
-    7. Pour the mixture into your baking tin (Which is greased with butter or lined with parchment paper)
+    5. Add in the the raisins and cherries.
+    6. Add in the salt.
+    7. Add in the milk and oil.
+    8. Pour the mixture into your baking tin (Which is greased with butter or lined with parchment paper)
 
     **Bake**
 
