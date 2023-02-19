@@ -65,15 +65,15 @@ The came out perfect.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_5.jpg)
 
-They smell so good every time.
+They smell so good every time. Letting them cool off before placing the meringue on top.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_6.jpg)
 
-Letting them cool off before placing the meringue on top.
+Heat and mix the egg whites and sugar.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_7.jpg)
 
-Heat and mix the egg whites and sugar.
+Untill it looks like this.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_8.jpg)
 
