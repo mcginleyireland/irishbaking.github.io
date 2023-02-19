@@ -3,7 +3,7 @@ date: 2023-02-18
 title: Strawberry Pie
 categories:
   - Tarts
-featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_5.jpg
+featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -74,19 +74,21 @@ Try not to eat all of the strawberries before putting them into the pie.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_4.jpg)
 
-Added the sugar and cornstarch.
+I placed them evenly for the photo but life is more hectic.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_5.jpg)
 
-Added more strawberries for good luck.
+Added the sugar and cornstarch.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.jpg)
 
-Added the top of the tart to sceal in the flavour.
+Added more strawberries for good luck.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.jpg)
 
-The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
+Added the top of the tart to sceal in the flavour.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.jpg)
+
+The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
 
