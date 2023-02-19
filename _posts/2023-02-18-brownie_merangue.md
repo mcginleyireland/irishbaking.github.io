@@ -53,23 +53,23 @@ I think in lockdown the hardest thing to do is to share your baking. Which means
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_2.jpg)
 
-A bit of sugar never hurt!
+Greace the tin up.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_3.jpg)
 
-Going to be good!
+Added the batter. This is going to be good!
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_4.jpg)
 
-If it's seeping out too much in the oven, take it out.
+The came out perfect.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_5.jpg)
 
-The brownies need to rest and be cooled before the meringue goes on top.
+They smell so good every time.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_6.jpg)
 
-Have the egg whites and suger in a bowl and heat it up in a bain-marie.
+Letting them cool off before placing the meringue on top.
 
 ![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Meringue/Image_7.jpg)
 

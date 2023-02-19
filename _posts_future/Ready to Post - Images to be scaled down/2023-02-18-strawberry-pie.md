@@ -86,7 +86,7 @@ Added more strawberries for good luck.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.jpg)
 
-Added the top of the tart to sceal in the flavour.
+Added the top of the tart to seal in the flavour.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.jpg)
 
