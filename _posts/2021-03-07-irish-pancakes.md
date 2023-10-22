@@ -3,7 +3,7 @@ date: 2021-03-07
 title: Irish Pancakes
 categories:
   - Pancakes
-featured_image: https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_4_scaled.jpg
+featured_image: https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_4_scaled.webp
 recipe:
   servings: 20 Pancakes
   prep: 5 minutes
@@ -35,14 +35,14 @@ recipe:
 ---
 I was a little bit late posting this, but Pancake Tuesday is my favourite day of the year. This is the way my Mam makes it and it's such a reminder of my childhood when I make it this way.
 
-![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_1_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_1_scaled.webp)
 
 I think you're meant to leave the batter to rest for 30 minutes, but I rarely do this! :)
 
-![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_2_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_2_scaled.webp)
 
 Waiting for this side to be dry so we can flip it and it not go everwhere.
 
-![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_3_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Pancakes/Irish_Pancakes/Image_3_scaled.webp)
 
 Savoury or sweet? I always go sweet!
