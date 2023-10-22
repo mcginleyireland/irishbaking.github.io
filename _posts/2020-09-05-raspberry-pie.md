@@ -3,7 +3,7 @@ date: 2020-09-05
 title: Raspberry Pie
 categories:
   - Tarts
-featured_image: https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_5.jpg
+featured_image: https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_4_scaled.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -64,18 +64,19 @@ recipe:
 ---
 One of my favourite things to do in the summer is to make pie from fresh ingredients. Something warm to eat with a nice cup of tea.
 
-![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_1_scaled.jpg)
 
 Try not to eat all of the raspberries before putting them into the pie.
 
-![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_2_scaled.jpg)
 
 Once the sugar and cornstarch is added along with the topped pastry you're ready to egg wash the top of your pie.
 BTW those pie holes are very very important. Your sugar and flour won't mix as well with the berries without them.
 
-![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_3_scaled.jpg)
 
-You can add extra flavour with berries.
+The most difficult part is letting it cool down.
 
-![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Raspberry_Pie/Image_4_scaled.jpg)
 
+Plate it and eat it. Yum.

@@ -3,7 +3,7 @@ date: 2023-10-22
 title: Raspberry Jam
 categories:
   - Jam
-featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1_scaled.jpg
 recipe:
   servings: 4 Jars of Jam
   prep: 15 minutes
