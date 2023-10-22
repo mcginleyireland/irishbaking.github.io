@@ -3,7 +3,7 @@ date: 2020-09-19
 title: Lemon Drizzle
 categories:
   - Cakes
-featured_image: https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_3.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_3_scaled.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -39,21 +39,21 @@ recipe:
 ---
 If you're a sour fan you're going to love this cake. Lemon Drizzle is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
 
-![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_1_scaled.jpg)
 
 It's always important to butter your tins, but I find these loaf paper linings way better.
 
-![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_2_scaled.jpg)
 
 While your cake is in the oven prepare the lemon drizzle part of the Lemon Drizzle Cake.
 
-![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_3_scaled.jpg)
 
 While still in the tin drizzle over the lemon and icing sugar mix. You can poke fork holes in the cake to bring a rich lemon flavour to all part of the cake.
 
-![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_4_scaled.jpg)
 
 Wait for it to cool down to cut an plate.
 
-![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Lemon_Drizzle/Image_5_scaled.jpg)
 
