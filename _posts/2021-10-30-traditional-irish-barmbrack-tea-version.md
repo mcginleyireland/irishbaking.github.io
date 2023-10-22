@@ -4,7 +4,7 @@ title: Traditional Irish Barmbrack (Tea Version)
 categories:
   - Cakes
   - Halloween
-featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_1.webp
 recipe:
   servings: 10 Slices
   prep: 60 minutes
@@ -53,42 +53,42 @@ recipe:
 ---
 During Halloween there are two types of Barmbrack that are made. There is this one which has more fruit and more tea based. The other has less fruit and you add yeast to the mix. Both are great and we have a tradition of adding objects to the cake which I will get into below.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_2.webp)
 
 Brew the tea and let it cool down. We don't want the raisins to plump up too fast.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_3.webp)
 
 When the tea is cool add it into your fruit mix and mixed peal. I do reccommend adding some whiskey.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_4.webp)
 
 The next morning you add in the sugar and egg.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_5.webp)
 
 You'll see the mixture is still pretty wet at this stage.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_6.webp)
 
 Add in the flour and your spices.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_7.webp)
 
 When mixed well we can add it to the tin.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_8.webp)
 
 I normally slam the tin a few times so that there's no air bubbles stored below. At this stage you can wrap in parchment paper, a ring, a coin or evern a rag. These symbolise a wedding, wealth or poverty.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_9.webp)
 
 After 60 minuets you can leave it in the tin for about 15 minutes and then leave it on a wire rack after that.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_10.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_10.webp)
 
 There's a really great color from the tea version of Barmbrack.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_11.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Barmbrack_Tea_Version/Image_11.webp)
 
 Might be even the tastier of the two. Make tea and put on some butter.

@@ -3,7 +3,7 @@ date: 2021-04-04
 title: Banana Crumble For One
 categories:
   - Deserts For One
-featured_image: https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_1.webp
 recipe:
   servings: 1 Crumble
   prep: 5 minutes
@@ -45,15 +45,15 @@ recipe:
 ---
 Move over banana bread, this is my new favourite banana based baked goods! Just one and you'll be hooked. Hope you enjoy because I can't stop making this.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_2.webp)
 
 Bananas in a crumble? Yes please!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_3.webp)
 
 Has to be brown sugar for this in my opinion.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Banana_Crumble/Image_4.webp)
 
 Done in seconds.
 

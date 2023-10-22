@@ -3,7 +3,7 @@ date: 2020-10-31
 title: Treacle Gingerbread Man - Among Us
 categories:
   - Gingerbread
-featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_13.jpg
+featured_image: https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_13.webp
 recipe:
   servings: 16 Gingerbread Man
   prep: 25 minutes
@@ -70,34 +70,34 @@ recipe:
 ---
 I've learned so much making these lil guys! Can't wait to make them again and impove on them! I found this gingerbread recipe really easy to roll out. It seemed sticky but in the end didn't separate at all.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_1.webp)
 
 I didn't have a cookie cutterer for them so had to draw and make my own.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_3.webp)
 
 No one ever shows the mess you make when you bake.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_4.webp)
 
 Really glad to get them in the oven. They also didn't grow out so they turned out great.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_5.webp)
 
 The second set of men I did cut a bigger gap around their legs.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_6.webp)
 
 This is where most of the learning came from. I learned how to make sure the icing won't be lumpy. Below I'll describe what to do to make sure they don't look as lumpy as the ones I made.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_7.webp)
 
 Still came out amazingly well.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_9.webp)
 
 Wanted to see what it would look like if I didn't do the shading. Not so bad.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_12.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Among_Us_Treacle_Gingerbread_Man/Image_12.webp)
 
 Halloween ready!

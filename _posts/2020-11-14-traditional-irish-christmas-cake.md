@@ -4,7 +4,7 @@ title: Traditional Irish Christmas Cake
 categories:
   - Christmas
   - Cakes
-featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_12.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_12.webp
 recipe:
   servings: 20 Slices
   prep: 40 minutes
@@ -104,50 +104,50 @@ recipe:
 ---
 This is one of the Christmas Recipies that has been handed down to me. It has slighly less fruit and mixture, so, it won't be as tall but that just means you can have a second slice with your cup of tea at Chrstmas.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_1.webp)
 
 Bring out the fruit and get this soaking in whiskey for a day to two.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_2.webp)
 
 I'd rarly show photos of the lining of a tin, but this is really important for Christmas Cake.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_3.webp)
 
 Reason being is it's going to be in the oven for 3-4 hours so you don't want the edges to burn.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_4.webp)
 
 Mixing in 90% of the batter to the whiskey soaked fruits. 
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_5.webp)
 
 Placing that in the perfectly preped cake tin.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_6.webp)
 
 Added in the 10% of the saved batter. (So that the raisins at the top don't burn)
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_7.webp)
 
 When it comes out of the oven it's best to pour some more whiskey over it!
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_8.webp)
 
 The color is just amazing! Very excited for Christmas now!
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_9.webp)
 
 Then end result. It still smells so good a day after coming out of the oven.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_10.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_10.webp)
 
 Appling the almond paste can be trickey.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_11.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_11.webp)
 
 Applied the icing can be even trickier.
 
-![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_13.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Traditional_Irish_Christmas_Cake/Image_13.webp)
 
 Merry Christmas everyone! It feels so christmasy!

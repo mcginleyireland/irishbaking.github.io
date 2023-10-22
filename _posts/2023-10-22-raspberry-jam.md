@@ -3,7 +3,7 @@ date: 2023-10-22
 title: Raspberry Jam
 categories:
   - Jam
-featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1_scaled.jpg
+featured_image: https://irishbaking.ie/images/Jam/Raspberry/Image_1.webp
 recipe:
   servings: 4 Jars of Jam
   prep: 15 minutes
@@ -34,30 +34,30 @@ recipe:
 ---
 Every wanted to make your own jam? Less chemicals and maybe less sugar if you desire.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_2_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_2.webp)
 
 Try not to eat them all before putting them in the pot.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_3_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_3.webp)
 
 Adding the naughty sugar.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_4_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_4.webp)
 
 While boiling it smells so good.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_5_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_5.webp)
 
 A chilled plate to test if the jam is ready to be put in a jar.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_6_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_6.webp)
 
 This is the wrinkles you are looking for.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_7_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_7.webp)
 
 This is the wrikles zoomed in.
 
-![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_8_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Jam/Raspberry/Image_8.webp)
 
 Goes very well with Irish Soda Bread.

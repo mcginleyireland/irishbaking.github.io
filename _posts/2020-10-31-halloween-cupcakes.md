@@ -4,7 +4,7 @@ title: Halloween Cupcakes
 categories:
   - Cupcakes
   - Halloween
-featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg
+featured_image: https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.webp
 recipe:
   servings: 12 Cupcakes
   prep: 25 minutes
@@ -59,34 +59,34 @@ recipe:
 ---
 These spookie cupcakes that you'll want to eat straight away.
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_1.webp)
 
 Somehow managed not to get this mixure all over the place!
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_2.webp)
 
 These came out flat at the top. Perfect to add buttercream icing to.
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_3.webp)
 
 Always let it cool before adding any kind of icing.
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_4.webp)
 
 Didn't mage to get them all to be evenly black and orange but I think they still look gread.
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_5.webp)
 
 Harest part was deciding what to eat first.
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_6.webp)
 
 Spider?
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_7.webp)
 
 Or Cat?
 
-![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Cupcakes/Halloween_Cupcakes/Image_8.webp)
 
 Always Cat!

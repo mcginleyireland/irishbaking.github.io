@@ -4,7 +4,7 @@ title: Chocolate Oil Cake
 categories:
   - Cakes
   - Chocolate
-featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_9_scaled.jpg
+featured_image: https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_9.webp
 recipe:
   servings: 12 Slices
   prep: 25 minutes
@@ -65,38 +65,38 @@ recipe:
 ---
 Cholocate Oil Cake. This is something that was made for my Birthday and honestly, I've only good memories attached to this cake.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_1_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_1.webp)
 
 Starting off with melting the butter with the oil and water. Adding the cocoa powder after.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_2_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_2.webp)
 
 Adding in the sugar, flour, baking soda, milk, eggs and vanila extract.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_3_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_3.webp)
 
 I used seprate tins for this cake but if you use butter/oil to grease the sides you can use one tin and slice in half later on.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_4_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_4.webp)
 
 Making the ganache was not as easy as I'd hoped. Next time will deffo just use melted chocolate.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_5_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_5.webp)
 
 Heat the double cream in a bain marie.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_6_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_6.webp)
 
 When the cream was slightly simmering I added in the chocolate.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_7_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_7.webp)
 
 I coated the first cake with ganache on wire rack and then added the second cake on top.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_8.webp)
 
 Topped with walnuts to add some crunch.
 
-![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_9_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cakes/Chocolate_Oil/Image_9.webp)
 
 Before adding the ganache you could cut the cake so the shape is less curvy. But, does it taste as good as it looks? You bet :D!

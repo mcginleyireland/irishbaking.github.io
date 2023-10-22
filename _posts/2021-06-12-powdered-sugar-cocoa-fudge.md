@@ -4,7 +4,7 @@ title: Powdered Sugar Cocoa Fudge
 categories:
   - Deserts For Four
   - Brownie Cheesecake
-featured_image: https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_1.webp
 recipe:
   servings: 24 Pieces of Fudge
   prep: 15 minutes
@@ -35,18 +35,18 @@ recipe:
 ---
 Evaporated Milk on it's own is so sweet, add some butter and powdered sugar and you've got a treat for a picnic!
 
-![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_2.webp)
 
 If it's a bit runny then I added more icing sugar.
 
-![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_3.webp)
 
 Covered it with parchment paper so i could squish it to size.
 
-![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_4.webp)
 
 Cut it to size, but you can cut it any size and shape.
 
-![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Fudge/Powdered_Sugar_Cocoa_Fudge/Image_5.webp)
 
 These kept dispearing when I was trying to take photos of it.

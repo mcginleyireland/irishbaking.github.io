@@ -4,7 +4,7 @@ title: Brownies For Two
 categories:
   - Brownies
   - Deserts For Two
-featured_image: https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_4.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_4.webp
 recipe:
   servings: 2 Brownies
   prep: 20 minutes
@@ -37,18 +37,18 @@ recipe:
 ---
 Who doesn't like brownies? More fun to share but just as nice to have your own.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_1.webp)
 
 Always, always, always butter your ramekins before putting the batter in. Parchment paper if it's easier. (It was not easier in this case)
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_2.webp)
 
 Sometimes its hard not to eat all of the batter!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_3.webp)
 
 Depending on how you like it, you might only put half the batter in and make 4.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Two/Brownies/Image_5.webp)
 
 Add icecream? Yes please!

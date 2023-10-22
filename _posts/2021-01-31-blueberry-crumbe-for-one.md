@@ -3,7 +3,7 @@ date: 2021-01-31
 title: Blueberry Crumble For One
 categories:
   - Deserts For One
-featured_image: https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_1.webp
 recipe:
   servings: 15 Cookies
   prep: 5 minutes
@@ -44,18 +44,18 @@ recipe:
 ---
 I think in lockdown the hardest thing to do is to share your baking. Which means you eat all of the cake yourself. So, here is a recipe for just one. Blueberry Crumble. Hope you enjoy.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_2.webp)
 
 A bit of sugar never hurt!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_3.webp)
 
 Going to be good!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_4.webp)
 
 If it's seeping out too much in the oven, take it out.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_One/Blueberry_Crumble/Image_5.webp)
 
 I made it again it was that good.

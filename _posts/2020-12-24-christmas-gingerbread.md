@@ -4,7 +4,7 @@ title: Christmas Gingerbread
 categories:
   - Christmas
   - Gingerbread
-featured_image: https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_7.jpg
+featured_image: https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_7.webp
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -57,22 +57,22 @@ recipe:
 ---
 I wanted to show that decorating gingerbread men can become a Christmas tradition. Decorating with the Choco Writers made life so much easier. Baking can be as hard as you let it be. Never taken a shortcut before?
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_1.webp)
 
 Again, really easy to roll out.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_2.webp)
 
 Cutting into any shapes, they all look amazing.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_4.webp)
 
 All ready to decorate.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_5.webp)
 
 Christmas always brings out my creative side.
 
-![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Gingerbread/Christmas_Gingerbread/Image_6.webp)
 
 Not every gingerbread has to be perfect. We don't make mistakes, just happy little accidents.

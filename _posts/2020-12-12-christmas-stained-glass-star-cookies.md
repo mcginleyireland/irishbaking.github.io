@@ -4,7 +4,7 @@ title: Christmas Stained Glass Star Cookies
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_9_scaled.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_9.webp
 recipe:
   servings: 15 Cookies
   prep: 40 minutes
@@ -53,35 +53,35 @@ recipe:
 ---
 These Christmas Cookies will give a wow factor at anyones window. The most stylish cookie I've ever made.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_1_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_1.webp)
 
 Easy to roll and shape with your star cut outs.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_2_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_2.webp)
 
 The star shape cut out in the middle is going to make these amazing stained glass affect.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_3_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_3.webp)
 
 This was a failure, I added the balls at the start and it seemed to gel into the cookie. 
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_4_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_4.webp)
 
 Putting the balls in 5 minutes before the end.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_5_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_5.webp)
 
 Putting the balls in 3 minutes before the end.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_6_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_6.webp)
 
 Putting the balls in 5 minutes before the end didn't work out as well.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_7_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_7.webp)
 
 Putting the balls in 3 minutes before the end worked out way better.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_8_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Star_Stained_Glass_Cookies/Image_8.webp)
 
 This just looks amazing. Put them on the tree or by the window. People will be amazed.
 

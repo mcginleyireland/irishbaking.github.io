@@ -4,7 +4,7 @@ title: Brownie Cheesecake For Four
 categories:
   - Deserts For Four
   - Brownie Cheesecake
-featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg
+featured_image: https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.webp
 recipe:
   servings: 4 Brownie Cheesecakes
   prep: 30 minutes
@@ -65,22 +65,22 @@ recipe:
 ---
 This is my favourite desert. It combinds two of my favourite deserts. With a star dish it makes presentation so easy!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_6.webp)
 
 It's all about that buttery biscuit base!
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_7.webp)
 
 Not needed but if I can sneak in chocolate in a recipe I will! Also, will seel in the buttery biscuit base so that no cheese cake will seep into the bottom. 
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_8.webp)
 
 It's all coming together. <br> More images on the brownies are <a href="https://irishbaking.ie/brownies/deserts%20for%20two/2021/03/21/brownies/">here</a>.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_9.webp)
 
 Letting it rest for the chocolate to set.
 
-![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.jpg)
+![Cake](https://irishbaking.ie/images/Deserts_For_Four/Brownie_Cheesecake/Image_10.webp)
 
 It looks amazing espicially if you make it for a dinner party!

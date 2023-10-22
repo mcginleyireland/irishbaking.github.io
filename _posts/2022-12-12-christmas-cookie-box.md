@@ -4,7 +4,7 @@ title: Christmas Cookie Box
 categories:
   - Christmas
   - Cookies
-featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_13_scaled.jpg
+featured_image: https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_13.webp
 recipe:
   servings: 5 Christmas Cookie Boxes
   prep: 120 minutes
@@ -73,67 +73,67 @@ recipe:
 ---
 These Christmas Cookie Boxes are the best way to share a secret suprise in them. I put in sweets but you could put in anything to them, even an engagement ring!
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_1.webp)
 
 Roll out and shape your Cookie Box with your square shaped cut outs.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_2_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_2.webp)
 
 It'll be a bit messy but worth it.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_3_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_3.webp)
 
 Remember the Isomalt is optional. You can still make beautiful Cookie Boxes without it. 
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_4_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_4.webp)
 
 These are a tops and bottoms for the boxes. For mine I created a bottom that has a stained glass effect.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_5_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_5.webp)
 
 Once all of the pieces are cooled down, it is then time to start assembling the Cookie Boxes.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_6_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_6.webp)
 
 I used buttercream to stick them together, but you could use anything, even chocolate.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_7_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_7.webp)
 
 These are my favourite sweets. Perfect for a surprise.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_8_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_8.webp)
 
 A hand full of these fit in the Cookie Box.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_9.webp)
 
 Any sweets will do. The more colorful the better.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_10_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_10.webp)
 
 A shareable amount of sweets fit in there.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_11_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_11.webp)
 
 Sugary sweets are the best. And jelly sweets.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_12_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_12.webp)
 
 Jellys rattle less, it will surely be a good surprise. (Don't call me Shirley)
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_13_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_13.webp)
 
 Finally I tied a ribbon around the Cookie Boxes to add a sense of occasion. Merry Christmas!
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_14_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_14.webp)
 
 Up close it looks really christmasy.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_15_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_15.webp)
 
 The stained glass effect makes it feel magical.
 
-![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16_scaled.jpg)
+![Cake](https://irishbaking.ie/images/Cookies/Christmas_Cookie_Box/Image_16.webp)
 
 Even without the stained glass it looks great.
 
