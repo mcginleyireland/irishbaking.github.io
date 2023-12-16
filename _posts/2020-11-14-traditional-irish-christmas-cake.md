@@ -26,6 +26,7 @@ recipe:
     * 225g (8oz) of plain flour
     * 125g (4oz) of ground almonds
     * 4 tsp of mixed spice
+    * 6 eggs
     * 1 tin of strawberries (optional)
     * The ones below if you don't have mixed spice
     * 1 tsp of ground Cinnamon
@@ -68,7 +69,7 @@ recipe:
     4. When it's well mixed remove around 10% of the mixture and place it in a small bowl.
     5. Back to the 90%: Add in the ground almonds.
     6. Add in the fruit soaked in whiskey and the optional tin of strawberries. (Mix by wodden spoon as it won't break the fruit as much)
-    7. At this point it's tradition to make a wish and mix the mixture infront of you. You can get everyone in the house to do so.
+    7. At this point it's tradition to make a wish while stiring the mixture infront of you. You can get everyone in the house to do so.
     8. Place the 90% mixture (cake batter and fruit mix) into your baking tin.
     9. Some people put a well in the middle but I don't for my Christmas cakes, but if you would like to do that now is the time.
     10. Spread the 10% of the cake batter on top so it covers the raisins so that it doesn't burn.
@@ -78,7 +79,7 @@ recipe:
 
     1. Bake for 180-240 mins at 150°C (300°F). (Mine was 180 minutes because it's not as big as a cake)
     2. When it's out of the oven, pour some more whiskey over it.
-    3. I let it cool in the tin over nigth, but you take it out of the tin and let it rest.
+    3. I let it cool in the tin over night, but you can take it out of the tin and let it rest.
     4. The next day wrap it up in parchment paper and tin foil.
 
     **Almond Paste**
