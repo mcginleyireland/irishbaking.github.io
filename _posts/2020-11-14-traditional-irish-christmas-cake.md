@@ -36,10 +36,10 @@ recipe:
 
     **Almond Paste**
 
-    * 1kg (36oz) of almond flour
-    * 500g (18oz) of icing sugar
-    * 500g (18oz) of caster sugar
-    * 1 egg
+    * 500g (17.5oz) of almond flour
+    * 225g (8oz) of icing sugar
+    * 225g (8oz) of caster sugar
+    * 3 egg
     * 1/4 tsp of almond extract
 
     **Icing**
