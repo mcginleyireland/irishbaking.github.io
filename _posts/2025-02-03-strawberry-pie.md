@@ -3,7 +3,7 @@ date: 2025-02-03
 title: Strawberry Pie
 categories:
   - Tarts
-featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.jpg
+featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.webp
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -64,31 +64,31 @@ recipe:
 ---
 Summer fruit, in a tart. What more would you want? I really loved making this.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_2.webp)
 
 The base of the tart. So much potential from just baking to this point.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_3.webp)
 
 Try not to eat all of the strawberries before putting them into the pie.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_4.webp)
 
 I placed them evenly for the photo but life is more hectic.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_5.webp)
 
 Added the sugar and cornstarch.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.webp)
 
 Added more strawberries for good luck.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.webp)
 
 Added the top of the tart to seal in the flavour.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.webp)
 
 The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
 
