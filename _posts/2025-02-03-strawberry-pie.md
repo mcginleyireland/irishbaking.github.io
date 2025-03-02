@@ -6,7 +6,7 @@ categories:
 featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.webp
 recipe:
   servings: 12 slices
-  prep: 15 minutes
+  prep: 115 minutes
   cook: 65 minutes
   ingredients_markdown: |-
     **Pastery**
