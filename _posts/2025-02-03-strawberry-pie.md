@@ -84,13 +84,10 @@ Added the sugar and cornstarch.
 
 Added more strawberries for good luck.
 
-![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_7.webp)
-
-Added the top of the tart to seal in the flavour.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.webp)
 
-The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
+Added the top of the tart to seal in the flavour. The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
 
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.webp)
 
