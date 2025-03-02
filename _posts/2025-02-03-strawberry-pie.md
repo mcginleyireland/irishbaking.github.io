@@ -3,7 +3,7 @@ date: 2025-02-03
 title: Strawberry Pie
 categories:
   - Tarts
-featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.webp
+featured_image: https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_6.webp
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -91,4 +91,8 @@ Added the top of the tart to seal in the flavour.
 ![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_8.webp)
 
 The top of the tart has an egg wash on it to make it look golden when it comes out of the oven.
+
+![Cake](https://irishbaking.ie/images/Tarts/Strawberry_Pie/Image_1.webp)
+
+The hardest part is waiting for it to cool down.
 
