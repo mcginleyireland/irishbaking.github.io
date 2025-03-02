@@ -1,5 +1,5 @@
 ---
-date: 2023-02-18
+date: 2025-02-03
 title: Strawberry Pie
 categories:
   - Tarts
