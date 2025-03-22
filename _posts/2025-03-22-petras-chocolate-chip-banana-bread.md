@@ -40,7 +40,7 @@ recipe:
     5. After 5 minutes take the banana bread out of the tin and leave on the wire rack to cool.
 
 ---
-Chocolate chips in a banana bread! The best combo.
+Chocolate chips in a banana bread? The best combo.
 
 ![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_1.webp)
 
