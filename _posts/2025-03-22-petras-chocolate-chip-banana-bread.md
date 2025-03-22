@@ -37,7 +37,7 @@ recipe:
     2. Bake for 50 minutes at 200°C (390°F).
     3. Mine was in for an extra 5 minutes.
     4. After taking it out place a wire rack under the tin for 5 minutes.
-	5. After 5 minutes take the banana bread out of the tin and leave on the wire rack to cool.
+    5. After 5 minutes take the banana bread out of the tin and leave on the wire rack to cool.
 
 ---
 Summer fruit, in a tart. What more would you want? I really loved making this.
