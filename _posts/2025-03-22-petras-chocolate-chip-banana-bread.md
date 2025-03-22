@@ -3,7 +3,7 @@ date: 2025-03-22
 title: Petra's Chocolate Chip Banana Bread
 categories:
   - Banana Breads
-featured_image: https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_10.jpg
+featured_image: https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_10.webp
 recipe:
   servings: 12 slices
   prep: 15 minutes
@@ -42,47 +42,47 @@ recipe:
 ---
 Summer fruit, in a tart. What more would you want? I really loved making this.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_1.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_1.webp)
 
 Cream the sugar and butter together.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_2.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_2.webp)
 
 Adding in the two eggs.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_3.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_3.webp)
 
 Slowly adding in the flour.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_4.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_4.webp)
 
 The older the banana the better!
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_5.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_5.webp)
 
 Mash them up into the mixture.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_6.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_6.webp)
 
 Add in the chocolate chips.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_7.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_7.webp)
 
 Everything is ready to be baked.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_8.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_8.webp)
 
 Add the mixture to your lined or buttered tin.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_9.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_9.webp)
 
 Bake for 50-55 minutes.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_10.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_10.webp)
 
 After 5 minutes let it cool on the wire rack.
 
-![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_11.jpg)
+![Cake](https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_11.webp)
 
 Time to enjoy.
 
