@@ -3,7 +3,7 @@ date: 2025-03-22
 title: Petra's Chocolate Chip Banana Bread
 categories:
   - Banana Breads
-featured_image: https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_11.jpg
+featured_image: https://irishbaking.ie/images/Banana_Breads/Petras_Chocolate_Chip_Banana_Bread/Image_10.jpg
 recipe:
   servings: 12 slices
   prep: 15 minutes
