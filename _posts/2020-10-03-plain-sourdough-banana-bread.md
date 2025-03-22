@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     **Plain Sourdough Banana Bread**
 
-    * 200g (7oz) of self-rising  flour
+    * 200g (7oz) of self-rising flour
     * 200g (7oz) of brown sugar
     * 200g (7oz) overripe bananas
     * 100g (3.5oz) of sourdough starter
